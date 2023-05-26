@@ -1,0 +1,558 @@
+1661742536262811654 2023-05-25 14:34:28 +0000 <longwinsk> 🔥
+1661355215927271424 2023-05-24 12:55:24 +0000 <longwinsk> 👀
+1660840431452651521 2023-05-23 02:49:50 +0000 <longwinsk> 执行力。一旦某个目标确定，allin。
+1660840096294227968 2023-05-23 02:48:30 +0000 <longwinsk> 听说整个团队自驱力极强。举例：一个工作小组5人，2人提前2天完成自己的部分，剩下3人一定会提前一天完成，不会等到最后。所有创业团队都应该尽量培养这种创业文化和工作态度吧。
+1660839445954805762 2023-05-23 02:45:55 +0000 <longwinsk> 尽量让自己始终处于概率较高的路线，多试几次，成功可能性就比别人大。
+1660839158829522945 2023-05-23 02:44:47 +0000 <longwinsk> 团队人才要齐备，最好多一些通才或跨领域人才。照宏江博士的说法：“要有能动手的研究员，精通算法的工程师”。
+1660838831275253760 2023-05-23 02:43:28 +0000 <longwinsk> 研究了下OpenAI团队，总结几点供Web3创业团队参考：1. 跨学科知识很重要。OpenAI团队应该对宇宙规律，生命演化和复杂系统的形成有着极其深刻地认知，所以才能坚定不移的走大模型路线，硬生生为AI发展杀出一条血路（前期一个月烧1亿美元）。
+1660837642152427521 2023-05-23 02:38:45 +0000 <longwinsk> 所以，AI的发展会激发对Web3技术的需求…
+1660213696847806464 2023-05-21 09:19:25 +0000 <longwinsk> 整理下近期的思考，请@Foresight_News 发了一下🤛，enjoy！ https://t.co/cXA9dBmPGx
+1660130279821041665 2023-05-21 03:47:57 +0000 <longwinsk> 是时候把电影《The Matrix》里Mopheus和Neo的对白找出来再读一遍了。
+1660130190465568769 2023-05-21 03:47:35 +0000 <longwinsk> 人的生命太短暂，很多伟大的想法都极其可惜地永远地遗失在了历史的长河里。书籍，音乐和影视的记录应该只是很小很小的一部分。即使记录下来，那么多的伟大的著作和真理其实一直都在那里，但一个人又能读多少呢？硅基AGI则完全没有这个问题。
+1660130118914969600 2023-05-21 03:47:18 +0000 <longwinsk> 我觉得我上次推荐的那9本书的作者如果还健在，还有能力写，都应该看着GPT未来的发展，把书都写个新版。
+1660130017354076160 2023-05-21 03:46:54 +0000 <longwinsk> 如果人类真的把AGI和机器人创造出来，驱动机器人的价值评估体系是什么？机器人会不会也很困惑“我来自于哪里，我往哪里去”？人类有释迦摩尼，机器人为什么不能有？机器人觉醒会是怎样？某个机器人会不会写一本《Why Machinism is True》来呼吁机器人觉悟，呼吁进入涅槃，来摆脱人类给他们设置的“轮回”？
+1660129634674176000 2023-05-21 03:45:23 +0000 <longwinsk> 《Why Buddism is True》一书里提到，人大脑至少有7个模块（应该是多模态并行大模型）。哪一个思维模块占据「当下」的主体，人的“决策”如何做出，其实都由“感觉”决定。而这个“感觉”就是由“人”进化带来的“陈旧”的价值评估体系来决定（载体之一可能是肠道细菌，哈哈）。
+1660129503669284866 2023-05-21 03:44:52 +0000 <longwinsk> 人大脑的价值评估体系应该是碳基分子形成的DNA和遗传基因“为了”最大化地提高自己的复制概率，通过自然演化的力量，给神经元的突触设置好权重，逐步演化确定下来。这个碳基计算节点支撑的“模型”远非完美，演化速度缓慢，“权重”和“算法”调整极其低效，跟不上环境变化。所以我们才会有宗教提到欲望和痛苦
+1660129299293425664 2023-05-21 03:44:03 +0000 <longwinsk> 人脑和碳基大脑都喜欢做generalize提炼（可能是残酷的进化所逼），所以极其高效；但不擅长做irreducible 的计算，而很多计算模式可能只能一步一步做。GPT4的架构没有太多的generalization和简化，所以能耗极高。但「此路可通」的全球共识已经形成，后面应该会看到美国和中国的多个团队在各方面加速推进
+1660129016416964614 2023-05-21 03:42:55 +0000 <longwinsk> 语言本能和逻辑思考没有想象中的复杂，ChatGPT已经“默默地”地发现了语言背后隐含的逻辑。语言也会是所有硅基AGI区别其他硅基计算器和AI的“本能”。
+1660128989447589889 2023-05-21 03:42:49 +0000 <longwinsk> 很佩服史蒂芬平克，他可以在几十年前只用观察和推理，就令人信服地说明语言是所有人类的本能，是“刻”在我们基因里的。不知道Sam有没有读过《语言本能》这本书，但他证明了ChatGPT这样的人造网络可以非常好的完成语言创立工作。
+1660128708978708482 2023-05-21 03:41:42 +0000 <longwinsk> 语言和思考的“规则”，可能并不是我们能够完全按“语法”总结出来的，这个规则目前来看是隐含，无法完全简约和总结的。所以目前只能用大模型来干出来，毕竟人的大脑架构也是从单细胞自然演化来的，即使有造物主，也应该是“开辟”了宇宙后，就撒手不管了，否则怎么会有这么多的bug和缺点，哈哈。
+1660128621590093825 2023-05-21 03:41:21 +0000 <longwinsk> 由于底层硬件不同，所以ChatGPT的“策略”很可能和人的大脑是很不同的，而且是低效的，但令人惊讶的是，Her产生的结果是如此像人的思考。人的思考本质上可能就是由简单规则驱动的。
+1660128539373617158 2023-05-21 03:41:02 +0000 <longwinsk> Sam团队应该打心眼里没觉得人类大脑有什么了不起，才能如此坚定地走大模型的AGI路线，一个月烧1亿美元还是很考验信念的。
+1660128512324542466 2023-05-21 03:40:55 +0000 <longwinsk> 单细胞到人的形成，所有证据链条已经完备；关于复杂系统的形成，基因的存在和“动机”也已有完备的理论；但人能不能依据所有科学理论，设计出硅基的AGI呢？有人认为是几年，有人认为是几十年，更多的人认为永远不会（即使在看到AlphaGo在围棋领域的表现后），但 ChatGPT用铁一般的事实给出了明确的答案。
+1660128333227761666 2023-05-21 03:40:12 +0000 <longwinsk> 人类语言以及驱动语言的思考的背后可能并不是什么灵魂，可能就是100 万亿的神经突触连接后，被环境的演化不断调教，“涌现”出来的东西。这一切非常符合人类最近两百年对「人来自于哪里」这个问题的突飞猛进般的各类研究。
+1660128302621937664 2023-05-21 03:40:05 +0000 <longwinsk> 对我个人来说，ChatGPT最大的意义在于它最直接地，毫无争议地证明了基于简单的计算节点和函数，只要数量足够多，模型足够大，就可以生成足够复杂的思考模式，而这个系统是有限的，不是无限的。
+1660128118806568962 2023-05-21 03:39:21 +0000 <longwinsk> GPT4目前的幻觉率（hallucination）大概在10%-14%，必须降下来。幻觉率是“类人”模型必然会出现的特征。这个比例和人相比，还是太高。能否有效降下来，决定几年后AGI发展是继续一路向上还是进入阶段性低谷期。
+1660128017488965638 2023-05-21 03:38:57 +0000 <longwinsk> GPT4还有弱点和缺点，但就像人脑一样，一旦给予更明确的指示或提示，可以更强；还可以调用其他辅助工具后更加完美。就像人脑也需要借助计算器完成人脑本身不擅长的任务。  大模型的参数量应该和人大脑神经元的突触数相比（而不是神经元），这个数字是100万亿。 估计大模型参数量很快会逼近。
+1660127820767698944 2023-05-21 03:38:10 +0000 <longwinsk> 大模型=大数据+大算力+强算法。全球只有美国和中国可以做。做大模型的难点在于芯片，CUDA（GPU的编程平台）开发者积累，工程构建，和高质量的数据（用于训练，调参和对齐）。对齐两方面，一对齐人类大脑的模型和表现方式，二人类的道德标准和利益。国内有两个方向的垂直模型赛道很有机会：医疗和教育。
+1660127599363002370 2023-05-21 03:37:18 +0000 <longwinsk> AGI可拆解为Reason，Plan，Solve problems，Think abstractly, Comprehend complex ideas, 和Learning。GPT4 除了Plan不行，Learning算一半以外（基于预训练模型，不能实时学习），其他已具备。  人脑的学习能力进化速度缓慢，但硅基智能的发展一旦方向找对，速度可以是指数级（GPT4和GPT3.5的差距）。
+1660127311709245440 2023-05-21 03:36:09 +0000 <longwinsk> 在高山书院上过一些“一节课值回所有学费”的课，周五宏江博士的讲座就是这样的一节课。具体内容不便分享，谈一下自己的所得和感想：
+1659906735975575552 2023-05-20 12:59:40 +0000 <longwinsk> @cryptochessxyz 👍
+1659743766784413699 2023-05-20 02:12:05 +0000 <longwinsk> Slow is fast
+1659731776489807872 2023-05-20 01:24:26 +0000 <longwinsk> @starzqeth @jackbutcher 前提是运营团队本身要够强，但这一点如果没有资本加持或者已有足够积累，基本上不太可能。
+1659731397547028481 2023-05-20 01:22:56 +0000 <longwinsk> RT @Svwang1: Sam Zell 几年前写的这本书，有很多值得学习的经验教训。书里有八个地方提到 “barrier to entry" (进入壁垒) 的实例，都来自他在不同行业的闯荡的经历。如果你不清楚你现在做的事，或者投资的企业，相对于竞争者有什么明确的壁垒，那么大…
+1659187868231958530 2023-05-18 13:23:08 +0000 <longwinsk> RT @starzqeth: 1️⃣ 本周，知名板球运动员Glenn Maxwell(推特 174w 粉丝) 通过与 Smart Token Labs 合作向自己的粉丝发放不需要注册Crypto钱包就可以领取的会员 token，更好地运营自己的粉丝社区  目前是 7天限时免费，…
+1658880131648352257 2023-05-17 17:00:18 +0000 <longwinsk> @samxgeno OK
+1658879971975397376 2023-05-17 16:59:40 +0000 <longwinsk> @WyfS8j0pt958opO @oortech 好的，谢谢，我们看看。
+1658661566001328128 2023-05-17 02:31:48 +0000 <longwinsk> 🔥
+1658656667138138115 2023-05-17 02:12:20 +0000 <longwinsk> @pcfli @Svwang1 我也用不起来。我觉得可能是使用习惯问题。年轻人习惯discord，可能就像他们熟悉看弹幕电影和视频一样😂
+1658650168500318214 2023-05-17 01:46:31 +0000 <longwinsk> Sadly agree! Totally.
+1658633434246578179 2023-05-17 00:40:01 +0000 <longwinsk> @KaceyK0 是啊。而且基于web3的交易所要颠覆传统证券交易所，首先必须把rwa这类资产的定价权拿过来（虽然技术占优，颠覆只是迟早的事情）。可以和digift @DigiFTTech 的创始人 @henryzh29829602 团队聊聊。
+1658475171014152192 2023-05-16 14:11:08 +0000 <longwinsk> @0xCryptoCARL 👍
+1658410170123444226 2023-05-16 09:52:50 +0000 <longwinsk> 建议Web3创业团队，尤其是做应用的，听下陆奇博士近期演讲的最后四十分钟。如果你是在做大模型优先的Web3创业项目：三位一体，最好还能数据闭环，请联系我们🤝🤝
+1657909703161319424 2023-05-15 00:44:10 +0000 <longwinsk> 一直很喜欢看生命科学，复杂系统，（作为哲学的）佛教方面的书籍，推荐几本给大家，按我建议的阅读次序：《生机勃勃的尘埃》，《奇妙的生命》，《自私的基因》，《自下而上》，《The Social Conquest of Earth》，《语言本能》，《深奥的简洁》，《失控》，和《Why Buddism is true》。
+1657909604326719488 2023-05-15 00:43:46 +0000 <longwinsk> 如果我们这个宇宙“上面”有高维智能体或者“神”存在，当它看到地球上的寒武纪大爆发时的惊讶应该像今天我们看到ChatGPT一样。暂时无法解释，只能慢慢体会和学习，试着去了解。
+1657909529110269952 2023-05-15 00:43:28 +0000 <longwinsk> 人大脑里有1000亿个神经元，ChatGPT用了1750亿个参数。大力才能出奇迹，才能“涌现”。你要试着去主动构建智能体或者AGI，路彻底走反了，可能不是不行，而是要难1亿倍。
+1657909440132292608 2023-05-15 00:43:07 +0000 <longwinsk> 为什么以前搞人工智能和语言研究走不通，因为路走反了！语言是人大脑神经元系统足够复杂了，涌现出来的本能，至于是演化成汉语，还是英语，鸟语和环境及部落有关。泛化模型加上其他“模型”叠加产生了人这个牛逼的智能体。
+1657909299388223488 2023-05-15 00:42:34 +0000 <longwinsk> 三十年前，斯蒂芬平克发现了语言是人类的本能，就像我们现在意识到了，原来文字处理才是模型训练里我们苦苦追求的泛化能力的来源。
+1657909203485474816 2023-05-15 00:42:11 +0000 <longwinsk> 赞同陆奇教授的说法，模型演化会很像基因和生命的演化，本质是一样的。Transformer模型架构就像分子第一次“无意”搭成了可复制的RNA；GPT-1，2，3，3.5，4，以及后面的模型演化只要没有慧星撞地球般的事件，会就像生命爆发一样，越来越快，越来越“失控”。模型自身有不断复杂化的“内驱力”，这是宇宙规律
+1657908675187716096 2023-05-15 00:40:05 +0000 <longwinsk> 也聊聊大模型和ChatGPT。和家里宠物呆的时间足够长，你会意识到猫只是比你简单几个维度的一个大模型或者说模型组合。
+1657650846350585856 2023-05-14 07:35:34 +0000 <longwinsk> 当价值可以像信息一样在互联网上流动的时候，这个互联网才是真正的互联网。
+1657650756911243265 2023-05-14 07:35:12 +0000 <longwinsk> Web3和Web2最大的区别在于，数据不是存在一个公司的数据库里，而是存在一个公开数据库-“互联网”上。所有商业模式都会发生巨大的正向的变化。Web3还会帮助物联网实现价值和数据闭环（物联网一直做不起来，发展远落后于移动互联网是有原因的）。
+1657650327037034499 2023-05-14 07:33:30 +0000 <longwinsk> Web3对生产效率的提升可能不会输给ai，肯定会超过Web1和Web2。我相信3年后，大家会对Web3的价值会有更好的理解；因为大家都会意识到所使用的各种应用，是原来的Web2互联网无法支撑的。
+1657649824819482626 2023-05-14 07:31:30 +0000 <longwinsk> 未来很有意思，agi的威胁怎么面对，除了伦理和本身发展的控制以外（看看谷歌的应激反应，自我控制不容易），Web3也会是很重要的控制性技术。
+1657649656392978434 2023-05-14 07:30:50 +0000 <longwinsk> 数据和内容只有在Web3的互联网体系里，才能更好地确认身份，高效的确认资产并完成实时交易结算，还能做到条件性高频支付。如果都还需要通过互联网+银行设施来完成，真的无法想象，打个比方就是让火箭在马路上飞行。
+1657649453829095424 2023-05-14 07:30:02 +0000 <longwinsk> 有人说硅谷只谈AI，没人聊Web3，Web3凉凉了。  Web3和AI的关系不是谁比谁牛逼，谁淘汰谁的关系，而是相辅相成。  AI会极大促进Web3的发展，主要是在需求端；而AI也需要Web3的did，nft，数字货币，加密授权等技术。
+1657284619379838978 2023-05-13 07:20:18 +0000 <longwinsk> @victor_wu_eth 国内基于联盟链或者用aa钱包，其实门槛很低。用户用邮箱和手机注册，基本无感。
+1657244015786610689 2023-05-13 04:38:58 +0000 <longwinsk> Web2公司用NFT来做用户私域流量管理，会发现有个巨大好处：用户提供行为，社交，交互数据是主动的，是依据各种现实场景的；可以不碰触用户身份信息就拿到完整的用户数据画像；再也不用用各种“危险”的数据获取方式（sdk，爬虫...），而面临越来越严苛的法律风险。
+1655931347733745665 2023-05-09 13:42:53 +0000 <longwinsk> 曾经很尊敬巴菲特和芒格，觉得他们睿智；但既然在Web3领域做VC，希望能有幸帮助到华人的elon和sam，那就必须旗帜鲜明地反对巴芒的捡烟蒂投资哲学。人不过是基因复制的载体之一，也不过是大模型里的一个小模型；五十年后没人会记得精致利己的巴芒，但大家会记得elon。我们希望做能帮助到“elon们”的人。
+1655528570519969792 2023-05-08 11:02:24 +0000 <longwinsk> @huangdongxc 可以看看 @Lily_Z_King 的这篇文章，另外AI会极大帮助需要在链上做确权的各种内容创作。@Knn3Network 还在做可以对Prompt确权的NFT…….  https://t.co/ZlRcn7vAcu
+1654902110532833280 2023-05-06 17:33:04 +0000 <longwinsk> @willeth99 @wallfac3r 👍
+1654901821440401408 2023-05-06 17:31:55 +0000 <longwinsk> @yuanxiao1971 @HashGlobal 👊
+1654739015025987584 2023-05-06 06:44:59 +0000 <longwinsk> 这几年经常有Web2的朋友问我Web3有哪些应用。借此文做个回答，我们畅想了青年小张在2025年12月31日的一天生活。事实上，所有谈及的应用都是现在已经可以看到的应用，不需要等到那一天。只是使用应用人数的不同而已，今天可能是1万人，2年半后可能是1亿人。全文链接可见： https://t.co/KiBHG6fm6W
+1654737856773099520 2023-05-06 06:40:23 +0000 <longwinsk> 而ChatGPT这样的AGI技术的出现，会给整个Web3应用及Web3商业模式和经济体的形成提供一个巨大的动力泵。就像当年3G/4G网络+iPhone推动了移动互联网经济的最终形成一样。
+1654737231662440453 2023-05-06 06:37:54 +0000 <longwinsk> 我们认为2023-2025年，Web3将迎来自己的“iPhone时刻”。各项应用的逐步爆发将帮助Web3实现飞轮转动和大规模普及。按影响力和爆发速度排的话，我们认为是：Web3游戏，DePIN和用于私域流量管理的NFT。 我们绘制了Web3的飞轮图。  https://t.co/Y00BJikwQA
+1654645424463167490 2023-05-06 00:33:05 +0000 <longwinsk> 👀
+1653929966554304512 2023-05-04 01:10:07 +0000 <longwinsk> RT @mindaoyang: 1/ 今天聊聊Blur的借贷协议Blend。  我两年前就说DeFi协议终会走向协议矩阵，交易+借贷+稳定币三种会整合到一起  今天看各大DeFi协议都折腾稳定币，走协议矩阵的路子。没想到，NFTFi的矩阵聚合势头来得比DeFi还要快。  当然，…
+1653771513559146496 2023-05-03 14:40:29 +0000 <longwinsk> A true breakthrough in Defi🔥🔥
+1653758810882977793 2023-05-03 13:50:00 +0000 <longwinsk> 🤝
+1653606555034742785 2023-05-03 03:44:59 +0000 <longwinsk> Balaji burned a million to tell us “they”are printing trillion.
+1653367162671890432 2023-05-02 11:53:44 +0000 <longwinsk> @LaserDing @NetworkMeson @arkreen_network 哈哈，必须啊
+1653367076508274688 2023-05-02 11:53:23 +0000 <longwinsk> @LaserDing Very well said👍
+1653364283399639042 2023-05-02 11:42:17 +0000 <longwinsk> Arkreen团队在物联网和区块链等领域拥有丰富经验，对于商业模式、产品设计、工程实现等方面都具有成功的全球落地案例。我们很荣幸能够领投Arkreen的这一轮融资，这是我们在DePIN领域的第二项重要投资（第一个是 @NetworkMeson ）更多信息可关注 @arkreen_network   全文可见： https://t.co/KiBHG6fm6W
+1653363340629114880 2023-05-02 11:38:33 +0000 <longwinsk> 大家可以想象一下在现有能源数据网络和绿证认证程序下，用Web2的互联网购买一张绿证的过程会有多繁琐，想自证“碳中和”更是困难重重。需求激发不起来，供给就无法有效增长，全球碳中和的目标就无法实现。
+1653363190833774592 2023-05-02 11:37:57 +0000 <longwinsk> 随着Web3各类应用的蓬勃发展，拥有链上钱包或身份的用户会越来越多，使用门槛也会越来越低直到完全无感。用户打开Arkreen的APP后，可以很方便的随时用自己钱包里的某种稳定币或者以太坊来购买任意数量的绿证，来抵消自己的碳足迹。用户持有和销毁的绿证全网可见，从而成为自己数字世界声誉的一部分。
+1653362764398858240 2023-05-02 11:36:15 +0000 <longwinsk> 绿证在Arkreen网络里的生成、购买和流转只是网络的一个用例。一旦数据可信，我们会看到更多的应用涌现出来。能源网络一旦基于区块链实现真正数字化后，不但绿证等资产可灵活拆分，且无地域性限制，还可高效对接各类DeFi去中心化金融生态，用户购买绿证的历史还可以以NFT的形式展现在用户的链上身份里。
+1653361794281521152 2023-05-02 11:32:24 +0000 <longwinsk> 试想一个场景：加州某居民John可免许可将家中的绿色能源设备接入Arkreen网络，参与当地的电网调度行为，获得奖励，并同时发行绿色电力证书。还可以和其他用户的绿证打包卖给某比特币矿业企业来抵消比特币挖矿的碳足迹。 https://t.co/MrRVkO6ST8
+1653359919402487809 2023-05-02 11:24:57 +0000 <longwinsk> 我们很兴奋地看到Arkreen正是这样融合了三方面技术打造的全球分布式可再生能源的数据网络：通过连接各类可再生能源设备，确保真实数据传输，Arkreen 将推动分布式能源设备的部署和资源最大化利用，为全球零碳目标助力。通过Web3激励模式来解决绿色能源市场的“鸡蛋困境”，有望成为DePIN领域的样板项目。
+1653359088984821760 2023-05-02 11:21:39 +0000 <longwinsk> 要解决这些数据问题，需要有三方面的技术解决方案：  物理层的物联网终端，实现数据的实时采集。   网络层支撑安全可信的数据传输和存储。   使用区块链作为结算层，实现数据的可信上链、可验证、全网可见，并支持实时结算。
+1653358713280008195 2023-05-02 11:20:09 +0000 <longwinsk> 为了实现一个全球范围的分布式绿色能源网络，需要一个可信的会计账簿来记录生产和使用的数据，以便有效地分配利益并激励全球参与者共建、共享网络。要记录的数据包括：绿色能源的发电和储能、绿色能源的交易以及绿色能源的使用。
+1653358464863993856 2023-05-02 11:19:10 +0000 <longwinsk> 自1994年联合国气候变化框架公约生效以来，虽然绿色能源生产设备和技术已经取得了显著进步，绿色能源的应用场景也得到了很大拓展，但全球性的绿色能源生态网络尚未有效地构建，这主要是因为缺乏全网可信的数据。
+1653358275474395136 2023-05-02 11:18:25 +0000 <longwinsk> 「如何用Web3技术打造全球绿色能源数据网络？」  本文内容得到Arkreen创始人 Leo Lin @linyao01 和 Laser Ding @LaserDing 的校订。
+1653060374189719555 2023-05-01 15:34:40 +0000 <longwinsk> 9. 期待AMM和DEX的模式，能解锁STO交易所的流动性困境，把RWA的Web3飞轮转动起来，让Defi开放金融获得更多的海量资产，从而真正实现Web3 金融的mass adoption。
+1653060248708730886 2023-05-01 15:34:10 +0000 <longwinsk> 8. 2023年可能是RWA元年。用户以价值互联网的身份和钱包完成KYC后，用互联网原生代币来购买所有token化的证券类资产。我们相信基于Web3的证券交易体验将完胜目前的证券交易基础设施：银行+证券公司+交易所+登记结算公司等构建的复杂体系。
+1653060076910039040 2023-05-01 15:33:29 +0000 <longwinsk> 5. 3月22日，钱包收到债券的季度派息。  6. 目前平台资产品种还很少，流动性很浅。但每个产品已支持7天*8小时的交易。  7. 期待平台后续上线更多美国国债，公司债，科技股票，Web3公司股权代币，基金份额，大宗商品等各类STO资产。
+1653059744209461248 2023-05-01 15:32:10 +0000 <longwinsk> 3. 3月18日用钱包里的USDC，通过下订单的方式以市场价格购买了挂钩巴克莱银行永续债的证券代币，8.5%的年化收益。之后可用AMM，挂单或者P2P三种方式进行交易。  4. 购买后，期间通过AMM买卖交易债券8次，每次含以太坊网络费，交易费率大概在千分之二，交易体验与Uniswap无差。费率比传统证券所低得多。
+1653059254218293248 2023-05-01 15:30:13 +0000 <longwinsk> 1. 我首先去官网 https://t.co/lOctRYYhtx 完成了用户注册。KYC流程比较简单，按要求提交身份资料即可,同时需要绑定自己的以太坊钱包地址。   2. 目前交易用户需要是合格投资人。可使用钱包里的资产（ETH和美元稳定币）来满足了100万新币的资产要求。
+1653054715419312131 2023-05-01 15:12:11 +0000 <longwinsk> 聊一下自己使用DigiFT (Hash Global是股东）的体验:  @DigiFTTech 是一家可以用AMM的方式交易证券化代币Security Token的新加坡合规交易所，核心创新点是可以供Web3用户以非托管的方式来交易。目前刚起步，上线了两只债券产品（ERC20的token）。
+1652168283108552705 2023-04-29 04:29:49 +0000 <longwinsk> 期待🔥
+1652167657687519232 2023-04-29 04:27:20 +0000 <longwinsk> 👀  https://t.co/fBJYsFbdBy
+1650465932790341633 2023-04-24 11:45:17 +0000 <longwinsk> BOOM!
+1649214913473318912 2023-04-21 00:54:10 +0000 <longwinsk> @audrtyw @cryptochessxyz depin也是一种新型经济组织形式，会越来越普遍，规模有大有小，覆盖有全球，有区域。
+1648348022403899392 2023-04-18 15:29:28 +0000 <longwinsk> RT @Lens_CN: 币安这份报告让GPT总结了一下，质量还是很高的。 没有对Lens展开大说特说，但结论如下🌿
+1647153167556317192 2023-04-15 08:21:32 +0000 <longwinsk> #BEANZKigu  https://t.co/BOWIxCQvpo
+1646681269231812610 2023-04-14 01:06:23 +0000 <longwinsk> ここからが勝利です。Big congrats to our Partner in Japan. 🔥🥂@yuanxiao1971 @kinoshitay
+1644876203457921024 2023-04-09 01:33:41 +0000 <longwinsk> RSS3 team’s investor monthly update is one of the best in the industry @rss3_ @JoshuaRSS3 👍
+1644874485793959938 2023-04-09 01:26:52 +0000 <longwinsk> RT @ruyan768: 无社交属性的游戏只是一种类似电影的作品，生命周期短。Web3游戏和社交密不可分，相互促进（SNS+开心农场），无社交的GameFi只会快速消散。任何应用加入社交都能变得更强大，这是在Web2 看到的。全链社交协议+全链游会带来无限可组合性，因为全链上…
+1644520679591784448 2023-04-08 02:00:58 +0000 <longwinsk> 大家一起来聊聊去中心化社交的打开方式。@SmartDeerGlobal @winkrypto @HashGlobal @Lens_CN
+1644519353126379520 2023-04-08 01:55:42 +0000 <longwinsk> RT @Walter_JCHuang: Brilliant product, it allows us to leverage the open web as a service for our daily use. Here are a few use cases that…
+1644518662030901248 2023-04-08 01:52:57 +0000 <longwinsk> @yuanxiao1971 袁师匠，オービターに投資しましたか？
+1644338881465286659 2023-04-07 13:58:34 +0000 <longwinsk> Honored to join @HashQuark and @HashKeyDID to build ether community together in Asia, will bring AMAP value to the ARK Pass holders👊👊 @HashGlobal
+1643952877818478592 2023-04-06 12:24:43 +0000 <longwinsk> 期待和大家在兰桂坊相聚🍺🍻🥂🍷 @arkreen_network @iotex_io @helium @refidaoist @HashGlobal
+1642335196283568128 2023-04-02 01:16:38 +0000 <longwinsk> Worth reading
+1641011292961120257 2023-03-29 09:35:55 +0000 <longwinsk> Trading real assets (bonds, stocks, commodities…) with my money in a metamask wallet, AND legally compliant! @DigiFTTech
+1641010035626221568 2023-03-29 09:30:55 +0000 <longwinsk> Happy to host this great event with @arkreen_network @Leoyao01 @LaserDing
+1641009823654506500 2023-03-29 09:30:05 +0000 <longwinsk> Next big thing…
+1638822872050446337 2023-03-23 08:39:55 +0000 <longwinsk> 以用户为中心，而不是以平台为中心，这是Web3区别于Web2的一个核心特质，也是NFT技术赋能实体商业的最好的着力点。
+1638758077662117890 2023-03-23 04:22:27 +0000 <longwinsk> @forgivenever @1 是啊
+1637360405369724931 2023-03-19 07:48:35 +0000 <longwinsk> And he feels quite all right.
+1632909204817317889 2023-03-07 01:01:07 +0000 <longwinsk> 真正的Web2级别的Web3产品👍@0xOar @ScopeProtocol
+1631995069367746560 2023-03-04 12:28:40 +0000 <longwinsk> RT @ValaAfshar: There are only two ways to live your life.   One is as though nothing is a miracle.   The other is as though everything is…
+1631651408033497089 2023-03-03 13:43:04 +0000 <longwinsk> 👍
+1630764736290881536 2023-03-01 02:59:45 +0000 <longwinsk> @suji_yan Happy Birthday! Still so so so young!
+1628360216172695553 2023-02-22 11:45:03 +0000 <longwinsk> 🔥
+1626762052709793792 2023-02-18 01:54:31 +0000 <longwinsk> Great potential! We finally have a solid IOT+blockchain team building this for a zero carbon future. @arkreen_network
+1624778362630868997 2023-02-12 14:32:03 +0000 <longwinsk> 🔥
+1623594028121079816 2023-02-09 08:05:55 +0000 <longwinsk> NFTやSBTなどのブロックチェーン技術は、ユーザー体験を向上させる大きな可能性を秘めていると我々は信じています。
+1621698489431494656 2023-02-04 02:33:44 +0000 <longwinsk> 我们喜欢Lens的开放架构，期待看到让人眼前一亮的想法和项目。
+1616231731820113920 2023-01-20 00:30:47 +0000 <longwinsk> Let’s do it.
+1615525787377209344 2023-01-18 01:45:37 +0000 <longwinsk> RT @milesjennings: In light of the SEC action against Gemini and Genesis, here's a thread and post from last year on why the caselaw (Reves…
+1612984319857004544 2023-01-11 01:26:44 +0000 <longwinsk> RT @suji_yan: Some new function of @realMaskNetwork  Social data of @farcaster_xyz  from @rss3_  Mask into DWeb search?👀  https://t.co/z5gzl…
+1612618382100299777 2023-01-10 01:12:37 +0000 <longwinsk> @matthuang Disagree, think the truth is on the other way around.
+1612389546188247040 2023-01-09 10:03:19 +0000 <longwinsk> @yuanxiao1971 最高ですね!
+1612252751026876416 2023-01-09 00:59:44 +0000 <longwinsk> Good advice
+1612252328371040256 2023-01-09 00:58:03 +0000 <longwinsk> RT @ylecun: In a (future) world in which everyone has access to personal AI assistants, human knowledge &amp; intelligence become less importan…
+1611166976608698371 2023-01-06 01:05:15 +0000 <longwinsk> Interesting talk.
+1610453898342563840 2023-01-04 01:51:44 +0000 <longwinsk> 期待伟大的亦凡同志三年后表现和观点
+1609852657870729217 2023-01-02 10:02:37 +0000 <longwinsk> Beanz outranked Mfers and Otherdeed today, will Azuki surpass Mutant Apes soon? @AzukiOfficial
+1609758647185461249 2023-01-02 03:49:04 +0000 <longwinsk> RT @linyao01: DePIN ecosystem needs technical enablement stack to bridge the competence between web3 and real world industry. IoT Oracle is…
+1609438024143876096 2023-01-01 06:35:01 +0000 <longwinsk> Web3 builders 新年快乐！我们对2023年的十个预测，enjoy!  https://t.co/dkjMIaWFRW
+1608068471379886080 2022-12-28 11:52:54 +0000 <longwinsk> 👍
+1608054130869952512 2022-12-28 10:55:55 +0000 <longwinsk> @iamashchild both
+1607545680608006144 2022-12-27 01:15:31 +0000 <longwinsk> @kinoshitay 起業しろ
+1605016987750436864 2022-12-20 01:47:24 +0000 <longwinsk> “Gary Gentler has done nothing…” @GaryGensler Gary, do something people can remember you from, could start from approving BTC/ETH ETF, which has been halted for no real reason.
+1605008955603767296 2022-12-20 01:15:29 +0000 <longwinsk> RT @mrjasonchoi: Asked my lawyer friend whether he thinks FTX users have to give back their money in clawbacks.  Sharing some notes (not le…
+1603711525847412737 2022-12-16 11:19:57 +0000 <longwinsk> RT @cz_binance: Blockchains are public, permanent records. It's the most auditable ledger.
+1602490110762946560 2022-12-13 02:26:29 +0000 <longwinsk> 🔥
+1601062358339637249 2022-12-09 03:53:07 +0000 <longwinsk> Let’s raid!
+1601047432829157377 2022-12-09 02:53:48 +0000 <longwinsk> Very well said, and the web3 food industry (production, storage, transportation, packaging, branding, servicing, commenting...) is going to be as big as the real one.
+1600782074352238592 2022-12-08 09:19:22 +0000 <longwinsk> ReFi might be a promising area for Web3 builders in the next bull run.
+1598862866798772224 2022-12-03 02:13:07 +0000 <longwinsk> RT @mrjasonchoi: Deserves more views - the only interview where the interviewer did his job
+1598110976145883136 2022-12-01 00:25:22 +0000 <longwinsk> 👍
+1597399077490073601 2022-11-29 01:16:32 +0000 <longwinsk> @GRDecter Now we know why he couldn’t stop shaking his right leg and then whole body and then crossed his hands. Unfortunately Rubinstein is not a well trained FBI officer.
+1596490260518563840 2022-11-26 13:05:14 +0000 <longwinsk> RT @cz_binance: After seeing how some old-school media cover recent events, I am more bullish than ever on Twitter and Crypto.
+1596099848968994817 2022-11-25 11:13:52 +0000 <longwinsk> RT @binance: Introducing the Web3 Industry Recovery Initiative!   #Binance and a number of key industry partners have joined together to co…
+1595608422359392258 2022-11-24 02:41:07 +0000 <longwinsk> RT @suji_yan: On FTX: we also need decentralized publication and journalism. Seems all main stream media failed…
+1595012567709192195 2022-11-22 11:13:24 +0000 <longwinsk> Where is my money mofo? Zhu.
+1593581918838136833 2022-11-18 12:28:31 +0000 <longwinsk> RT @cburniske: 1/ Hysteria, hysteria, hysteria 😱  We’re on the flip side of the manic late 2021 high in crypto, and everywhere I look peopl…
+1593403645348806657 2022-11-18 00:40:07 +0000 <longwinsk> Ignoring global web3 builders' non-stop efforts on pushing mass adoption, this will not be slowed, especially in Asia-Pacific. Capital is smart and will follow the adoption curve.
+1593400664117297153 2022-11-18 00:28:16 +0000 <longwinsk> @mrjasonchoi Ignoring Web3 builders’ efforts on pushing mass adoption… capital is smart and will follow.
+1593392859016617984 2022-11-17 23:57:16 +0000 <longwinsk> Lol😀
+1592730171219808256 2022-11-16 04:03:58 +0000 <longwinsk> 受FTX影响最大的是美国的LP，GP，和Web3项目方（听说一些美国LP已经在考虑收缩头寸，控制风险敞口），再考虑到美国监管的趋紧，Web3全球格局可能会从目前的6，2（亚洲），2（欧洲）变成4，3，3吧。
+1592330813064237056 2022-11-15 01:37:04 +0000 <longwinsk> 读到虎嗅的一篇文章：如果中国像韩国一样对加密资产行业放开，由于Web2互联网巨头掌握了最优质的资本和人才，也会优先拿到牌照或资质，可能像现在的韩国Web3行业一样，被巨头控制了最前沿的创新领域机会。/ 创新领域是不应该被上一个时代的巨头控制的，所以有时可能“所有的安排都是最好的”😀😀
+1591786045611597826 2022-11-13 13:32:21 +0000 <longwinsk> FTX爆雷对亚洲Web3行业的积极意义在于：1. 打破了美国在监管合规上具有优势的假象，甚至Gensler都惹了一身骚；2. 由此而不可避免地带来美国可能的过度监管，必然会牺牲创新，这会让“Web3革命发生在美国”少一点确信吧…
+1591592586736996352 2022-11-13 00:43:37 +0000 <longwinsk> Long live Web3
+1590705695204454400 2022-11-10 13:59:26 +0000 <longwinsk> 又听到usdt的“负面”传言。 加密资产行业，中心化的事物里面，我觉得最安全的是币安和Tether。从事物的一般发展规律来说，每经受过一次质疑又存续下来的，安全级别高一级。Tether已经多少次了？天天被盯着的，会比“好学生”安全得多。
+1590704880552882176 2022-11-10 13:56:12 +0000 <longwinsk> @Tree_of_Alpha Just did the same.
+1590704699228815360 2022-11-10 13:55:28 +0000 <longwinsk> Need to block, puke on his poetry  https://t.co/HAUNxiIkng
+1590700642989146112 2022-11-10 13:39:21 +0000 <longwinsk> 👀👀
+1590549198864551936 2022-11-10 03:37:34 +0000 <longwinsk> Awesome tool.
+1590538676588924928 2022-11-10 02:55:45 +0000 <longwinsk> RT @CryptoHayes: 1/ What happens now that Baron CZ passed on FTX bailout and SBF is bankrupt. The next question is who could save FTX?
+1590500740656951296 2022-11-10 00:25:01 +0000 <longwinsk> RT @rleshner: SBF spent months lobbying to kill DeFi, because he knew that transparent autonomous protocols were a threat to “trust me asse…
+1590177660030062593 2022-11-09 03:01:12 +0000 <longwinsk> 1. 民主党现在会不会觉得手上粘了一手屎；2. 挪用客户资金是金融领域极其严重的犯罪；3. Web3创业英雄无数，但有些“英雄”缺乏金融领域最基本的底线意识；4. CZ是华人之光；5. 同理，创业团队不要把融来做项目的钱去炒币，严格要求自身，从财务资金透明做起。
+1590129580526161921 2022-11-08 23:50:09 +0000 <longwinsk> Don’t use capital “efficiently” - so well said.  投资“笨”一点比较好。
+1590124588872392704 2022-11-08 23:30:19 +0000 <longwinsk> 合规口号喊得最响的反而是最轻易破坏最基础底线的；信人信制度不如信代码。各国监管应该加速拥抱defi等web3形态.
+1589958554844549120 2022-11-08 12:30:34 +0000 <longwinsk> RT @0xOar: Ftx的救市资金从这么多地方来，就是不从冷钱包来😩😩😩😩😩😩
+1589431794604335105 2022-11-07 01:37:24 +0000 <longwinsk> 50万美元的投资能够在区块链和互联网发展史上留下这么浓重的一笔！必须持续向老领导肖总学习。
+1589412654204223488 2022-11-07 00:21:21 +0000 <longwinsk> 没有最深刻的理解和战略思维，是无法在以太坊最困难的时候出资相助的，实在是国人的骄傲；50万美元不算少，但很多“币圈”的个人都能投得起，又有多少人能在那个时刻出手呢？一线美元VC们，对最重要的下一代互联网基础设施的集体缺席也值得思考，既有的思维框架可能只能支撑他们去投交易所和矿企。
+1589411248894251009 2022-11-07 00:15:46 +0000 <longwinsk> Hashkey肖总为《点对万物》一书作序，谈到了最初资助投资以太坊的故事。肖总作为国内公募基金大佬能够如此早期学习并深刻理解以太坊的价值，这和他多年勤读不辍是分不开的，记得他在博时出差时包里永远是两本书（其他那几个公募大佬现在早已退出江湖）。
+1588695274217934851 2022-11-05 00:50:44 +0000 <longwinsk> @yuanxiao1971 @Eth3Z 僕の分もお願いします
+1588527188814729216 2022-11-04 13:42:49 +0000 <longwinsk> @0xOar 哈哈
+1588010817026260992 2022-11-03 03:30:57 +0000 <longwinsk> 合约交易者可以多打打德州：1. 杠杆比率如果超过了comfortable level，就像上了超过自己bankroll的桌，动作一定会变型，错误不断；2. 每一个波段都要做对，就像追求每一局都要赢，只会迎来大败；3. 为了大层面的胜利，愿意在一些下注上止损，就像德州追求正ev一样，长期可获利。最后，心态都是king。
+1587105604249665537 2022-10-31 15:33:57 +0000 <longwinsk> Definitely the best news in almost two years.
+1586523184408322048 2022-10-30 00:59:37 +0000 <longwinsk> 对实现目标的难度和时间，如果没有足够的认知和充分的心理准备，容易自我怀疑，从而失败。光靠乐观主义精神是不够的。
+1586352336976240643 2022-10-29 13:40:44 +0000 <longwinsk> 现在的25岁就是98后，好像华人团队这样的成功案例并不多。日本学生和超年轻创业者的创业激情和能力比中国更强吗？
+1584739426361835522 2022-10-25 02:51:36 +0000 <longwinsk> @kanpo_blog 袁老板发大财啊
+1584698054594002944 2022-10-25 00:07:13 +0000 <longwinsk> RT @NorthRockLP: When the US data actually rolls ever, I think every single trend that has been in place for the last 6 months reverses.
+1584539647572529155 2022-10-24 13:37:45 +0000 <longwinsk> 👍
+1584361042058301440 2022-10-24 01:48:03 +0000 <longwinsk> 想明白一个事情，为什么Web3以外的朋友尤其是在Web2上成功的，容易批评Web3炮制新词汇和不说人话。Web3的创新主要在协议层面，最后大成时，应用层面可能只捕获50%的价值，有一万个tcp/ip， http，smtp，还有中间件和金融构件...要把底层这些名词都搞懂，的确需要很大的精力。好在以后的用户完全不需要。
+1584342971859628032 2022-10-24 00:36:14 +0000 <longwinsk> 举个例子：Amazon2007年推出Kindle，Kindle的自助出版功能从2010年开始改变整个图书出版行业的利润分配和创作者生态，2012年上线Prime视频…Amazon配备大量技术人员帮助客户onboard Kindle设备,9-15秒内相应所有设备使用问题。Web3的创作者经济模式一定能打败Web2，愿景是清晰的，道路则会是更艰难的。
+1584057856717860864 2022-10-23 05:43:18 +0000 <longwinsk> 读Bezos的《长期主义》一书有感：Web3的创业者要想从伟大的传道士般的Web2企业家手里抢夺互联网经济的份额，只要有一点投机取巧的心思，放弃了Web3本身的技术和模式上的特点和优势，那项目注定失败，最多也就是能割一把VC的韭菜。不做一个更坚定的传道士，基本没机会。
+1583291657344020480 2022-10-21 02:58:41 +0000 <longwinsk> Very useful guide.
+1583034154634969088 2022-10-20 09:55:28 +0000 <longwinsk> RT @frank_lay2: 整理了最近经常被问到的一些概念，很久没写这么长的文章了，欢迎拍砖！   https://t.co/Osb7PNMxqH
+1581093553102475264 2022-10-15 01:24:13 +0000 <longwinsk> Cool, fun and thrilled.
+1579993401159581698 2022-10-12 00:32:36 +0000 <longwinsk> We have been running @Hashquark-1826-HashGlobal node ever since BNB Chain was launched.  We are proud to be part of @BNBCHAIN and be the partner of BNBCHAIN’s European Innovation Incubator.  We build 👊
+1579463517736161282 2022-10-10 13:27:02 +0000 <longwinsk> RT @0xOar: watchers的flash search已经快要到什么都可以ss了😎😎😎。欢迎大家来合作。另外！招人呀！！！！！！大数据工程师，不用有区块链经验，包教包会。还有特别表扬一下，这个板块的设计完全来自公司那个财富自由的00后intern @BobieLiu
+1579280093066985472 2022-10-10 01:18:10 +0000 <longwinsk> 有朋友问web3不能实现去中心化怎么办？我觉得由于web3去平台（不是去中心），由于web3给每个用户全网通用的身份did，由于web3自含金融体系...：拥抱监管的web3价值=现有web2的相当一部分价值+网络自身效率极大提高后（百倍起）的新增价值。
+1579070129081499650 2022-10-09 11:23:51 +0000 <longwinsk> 坏事做绝的地址/家伙👀
+1579039957313691648 2022-10-09 09:23:57 +0000 <longwinsk> 让影响影响影响…直至巨大变革。
+1578039084529770498 2022-10-06 15:06:50 +0000 <longwinsk> @yuanxiao1971 私はただGoogle翻訳を使用しています，哈哈
+1577843529090355200 2022-10-06 02:09:46 +0000 <longwinsk> 強く同意します！このようにしてのみ、起業家チームの競争力を把握しやすくなります。私たちの主力プロジェクトでは、起業家チーム全体と会う必要があり、コア創設者はオフラインで会う必要があります。
+1577839068502585344 2022-10-06 01:52:03 +0000 <longwinsk> Feel like a must especially in a new booming industry.
+1577071857785708544 2022-10-03 23:03:26 +0000 <longwinsk> absolutely.
+1576719876634202112 2022-10-02 23:44:47 +0000 <longwinsk> “Elephants keep walking; dogs keep barking…”
+1576575123867377664 2022-10-02 14:09:35 +0000 <longwinsk> RT @StaniKulechov: First Celsius proved why DeFi is needed, Now Credit Suisse is going to prove why DeFi is going to stay.
+1576503903926898688 2022-10-02 09:26:35 +0000 <longwinsk> @ake_hayack 最初に体を回転させ、腕を使って体を持ち上げてみてください😂👊
+1576222333571764225 2022-10-01 14:47:43 +0000 <longwinsk> 👍
+1576217829354790914 2022-10-01 14:29:49 +0000 <longwinsk> 非常值得一读，“伟大的Web3产品是可以被吸血鬼攻击的，并且能够在攻击中活下来。”  “我们会看到数百种垂直客户端诞生。会出现几十个Facebook面向不同人群”。 - 举双手赞同。
+1576032105103912960 2022-10-01 02:11:49 +0000 <longwinsk> @looksrare_eth @StarkscanCo @SpanningLabs @DrewBeller @DavidTiczon @0xminion @0xBFRuby @0xChibin @Bowenddex @MrGavinLow Great work👍
+1576027304978878464 2022-10-01 01:52:45 +0000 <longwinsk> WE NEED YOU!
+1575675951731466240 2022-09-30 02:36:36 +0000 <longwinsk> RT @lanhubiji: 考虑到各国法币相对于美元的不利地位，加上各种混乱状态和不稳定的前景， btc和eth的硬通货叙事的落地有可能比人们想象中更早到来。
+1575080490754707459 2022-09-28 11:10:27 +0000 <longwinsk> Great summary, we are also “BETTING ON WEB3.0 DATA”. @wenqingyu @CogitentV @HashGlobal
+1575056309015105538 2022-09-28 09:34:21 +0000 <longwinsk> 的确很有意思。
+1574926870302203904 2022-09-28 01:00:01 +0000 <longwinsk> 积分通用性和流动性的问题会真正得到解决。有朋友说，商家会不会是新模式的阻力，因为原有发出的积分大多数是不会被使用的？我说如果积分不被使用，那商家一开始就不用发行积分。发行积分并且能让用户最方便的使用积分的商家会胜出。STL不是积分问题解决者，只是他们构建的新模式会自然解决积分问题。
+1574925192811270144 2022-09-28 00:53:21 +0000 <longwinsk> 1. 平台一旦发行积分，就不能轻易修改规则；2. 积分会变得真正通用起来，谁都可以独立验证我的token（不需要再和发行方确认我会员身份的可信性），同时针对我的链上积分提供服务，这是真正的效率提升；3.基于script的技术，每个token都会有个自带的“说明书”，这个说明书会更新token可拿到的新服务…
+1574923272470220800 2022-09-28 00:45:43 +0000 <longwinsk> 用户体验会变得好太多，我永远搞不清楚我有哪些会员身份，在哪一个平台积了多少分，如何登录某个网站，去使用某种积分兑换流程；这个体验很糟糕，因为这些都得按照某个平台的特定规矩来操作。如果所有会员卡和积分都“脱离”了原发行平台，以token形式存在我本地的某个独立钱包内？ 几个好处：
+1574921424384323585 2022-09-28 00:38:22 +0000 <longwinsk> 我们领投了本轮Token融资。@STL_cn @Victor928 四年前就提出的vision：未来商业形态会以用户手中的token为中心来展开，而不再需要通过一个平台方。例如：东航要提供服务给携程的高端客户，不再需要和携程核对数据，直接看用户手里的携程token即可。而这一切我们需要scipt的技术，需要token smart起来。
+1574388514459774976 2022-09-26 13:20:47 +0000 <longwinsk> OK，BOE， you won！😂😂
+1574373988200873984 2022-09-26 12:23:03 +0000 <longwinsk> 怎么感觉我能听懂意大利语了，哈哈
+1573190705908166656 2022-09-23 06:01:07 +0000 <longwinsk> Well said.
+1573189903739146240 2022-09-23 05:57:56 +0000 <longwinsk> RT @Knn3Network: KNN3's bi-weekly report 2022/09/08 - 2022/09/21  https://t.co/jGlKSCVVyo
+1573117265540947968 2022-09-23 01:09:17 +0000 <longwinsk> 我们希望能把有限的子弹提供给最强的华人创业团队，他们在一线作战，自然会把其他华人团队带起来。我们已经看到Web3的创业团队要比Web2的团结得多。
+1573116102770839552 2022-09-23 01:04:40 +0000 <longwinsk> 我们看到Web3的华人创业者比Web2的团结得多，原因可能是：
+1573111998455644161 2022-09-23 00:48:22 +0000 <longwinsk> 👀
+1572891312386605058 2022-09-22 10:11:26 +0000 <longwinsk> We continue to support Chinese founders. We have limited capability and limited resource (能力和子弹都有限), so we want to focus on Chinese founders. Hopefully we can find as many outstanding teams like @ScopeProtocol @0xOar as possible in this bear market. Keep building…🔥
+1572195102000558087 2022-09-20 12:04:56 +0000 <longwinsk> @yuanxiao1971 僕も, 一緒に行こう
+1572193823127924742 2022-09-20 11:59:52 +0000 <longwinsk> True innovation with token managing tool - Ethsign.
+1571840040845844481 2022-09-19 12:34:03 +0000 <longwinsk> @saylor Agree, and governments and agencies themselves are actually a lot more vulnerable than Bitcoin in a tightening cycle.
+1571491800183087105 2022-09-18 13:30:16 +0000 <longwinsk> We will see most governments and agencies are a lot more vulnerable than Bitcoin in a tightening cycle. @saylor would probably agree.
+1571325362214424578 2022-09-18 02:28:54 +0000 <longwinsk> @kinoshitay @yuanxiao1971 お願いします 🤝
+1571324578227703819 2022-09-18 02:25:47 +0000 <longwinsk> Happy to join this Gen-Z Web3 builders community initiated by Moonshot @buildmoonshot 👍🔥
+1571301224435306501 2022-09-18 00:52:59 +0000 <longwinsk> @yuanxiao1971 👍
+1571300891701161985 2022-09-18 00:51:40 +0000 <longwinsk> @yuanxiao1971 什么项目啊？
+1571300343132352512 2022-09-18 00:49:29 +0000 <longwinsk> Can’t wait for it
+1568524585112600576 2022-09-10 08:59:37 +0000 <longwinsk> Web3产品由于可以有token激励，达到early adopter这一阶段比Web2简单；但创业团队不能觉得这是PMF，恰恰相反，由于early majority用户的心态和习惯和early adopter完全不一样，之间的鸿沟会比Web2这两个阶段的鸿沟更大，Web3项目要跨越鸿沟的难度也更大。创业团队需要不一样的市场策略及毅力才能迈过。
+1568396029053272066 2022-09-10 00:28:47 +0000 <longwinsk> Feel great to lead this round.  Continue to look for the best Chinese web3 founders. @Knn3Network @wenqingyu
+1568015784705949696 2022-09-08 23:17:50 +0000 <longwinsk> RT @TokenScript: Hey Frens!  We've officially hit 100+ mints on #Ethereum, #Polygon, #Optimism and #Arbitrum for  @efdevconnect Co-Work Tic…
+1567695316199305216 2022-09-08 02:04:24 +0000 <longwinsk> @pcfli 我也一样，哈哈。近期重读taleb，冗余就是反脆弱，需要养成习惯。
+1567133209691062273 2022-09-06 12:50:47 +0000 <longwinsk> @SherlockShi_AHA 办公室吗？
+1565113490548789248 2022-08-31 23:05:09 +0000 <longwinsk> @kinoshitay @skylandvc おめでとう！あの10年物の赤ワインを飲みましたか？😀
+1564405909068976128 2022-08-30 00:13:28 +0000 <longwinsk> RT @ake_hayack: 昨日、NEN STUDIOの初イベントを行なったわけですが、結構ミニマムな構成でしたが非常に会場も盛り上がったかなと思います。 これから、ここをNFT文化や新しいコンテンツ製作の形の発信地として盛り上げていきたいなと思います！ #NENstudio
+1562217527639347202 2022-08-23 23:17:37 +0000 <longwinsk> 👀👀
+1560439590741168128 2022-08-19 01:32:44 +0000 <longwinsk> 不确定性，可选择性和波动性是人类最有力量的生产力，VC需要拥抱不确定性，需要对波动和“破坏”下注，当然怎么下注得靠本事，经验和一些运气😀；这和二级市场上努力对确定性下注投资不一样，但底层对价值和事物的认知判断可以相通。
+1560165735082561537 2022-08-18 07:24:32 +0000 <longwinsk> RT @APompliano: Have you ever seen a man jump out of a plane from 25,000 feet with no parachute and then land in a massive net on Earth?  N…
+1555564517571956736 2022-08-05 14:40:56 +0000 <longwinsk> RT @HashGlobal: 很高兴能和社区分享我们对@AzukiOfficial 估值的研究，我们相信NFT将成为IP传播的新载体，未来有望基于NFT打造社区化的、互动性更强的内容及品牌。如对报告有疑问或者建议，欢迎通过contact@hashglobal.net 联系我们…
+1553976603377795072 2022-08-01 05:31:08 +0000 <longwinsk> A true milestone👍…
+1552823602172440576 2022-07-29 01:09:31 +0000 <longwinsk> 🔥🔥🔥
+1552805964310425600 2022-07-28 23:59:26 +0000 <longwinsk> @cz_binance And give all founders true opportunities to work on something truly global…
+1552085464189767681 2022-07-27 00:16:25 +0000 <longwinsk> RT @MIXMARVELGAME: With the comprehensive support of MixMarvel in incubation and publication, the #GameFi application DeHero has given impr…
+1550760084170424322 2022-07-23 08:29:50 +0000 <longwinsk> “…build a final product before you launch a token...”  @HashGlobal
+1550062239318560768 2022-07-21 10:16:51 +0000 <longwinsk> #新头像 终于找到一个适合我的Azuki，哈哈。 @AzukiOfficial  https://t.co/qI0gAfmaKE
+1550044123947683841 2022-07-21 09:04:52 +0000 <longwinsk> 欢迎大家来交流。
+1548545591356973057 2022-07-17 05:50:14 +0000 <longwinsk> RT @ruyan768: Otherside这样令人惊艳的顶尖技术为什么率先在Web3项目采用？  万人同屏技术（免费资源有限），你会先给谁用？  1. Web2的一万用户 2. Web3的一万用户  互联网用户数量庞大但难以精准定位，未来会有更多先进早期技术优先给Web3用…
+1548437569280479232 2022-07-16 22:40:59 +0000 <longwinsk> @creatordaocc @tableland__ @iloveponzi @andrewxhill @oddfellowstv @BoredApeYC Apes should be wild and tough.  Like this style.
+1547517508571127809 2022-07-14 09:45:00 +0000 <longwinsk> Keep building…
+1547378314741833728 2022-07-14 00:31:53 +0000 <longwinsk> @IcedcoffeeEth #302 and #2589  https://t.co/ehST0BNY7K
+1547374274549149698 2022-07-14 00:15:50 +0000 <longwinsk> RT @milesjennings: In light of recent web3 regulatory FUD, it's worth noting that nearly all of the damage caused by CeFi lenders could hav…
+1546473742368313349 2022-07-11 12:37:26 +0000 <longwinsk> Quest to earn in Web3.
+1546449302108512257 2022-07-11 11:00:19 +0000 <longwinsk> 👀👀 @oxoar @ScopeProtocol 期待更详细的解读。
+1545592063911006208 2022-07-09 02:13:58 +0000 <longwinsk> Salute to @creatordaocc @Suyujiuu Cute, sexy and pretty combo picture for my Azuki #7143 and Beanz #14191. Will order more through @creatordaocc, made my day👊  @AzukiOfficial
+1545199543506964481 2022-07-08 00:14:14 +0000 <longwinsk> I'm creating my metaverse identity with @HashKeyDID. Come experience at  https://t.co/cYC3KFFmXE. #DID #NFTs  https://t.co/bqVhLEwYzy
+1545043628384391175 2022-07-07 13:54:41 +0000 <longwinsk> Great tool to analyze on-chain activities of an entity, 3AC as an example @ScopeProtocol . Come to join the tester group and help it grow, your feedback is needed.
+1544972888964341760 2022-07-07 09:13:35 +0000 <longwinsk> Outstanding in current market 👍, keep watching @NEN_Studio
+1544839373820022785 2022-07-07 00:23:03 +0000 <longwinsk> @fishkiller kao
+1544838540214747136 2022-07-07 00:19:44 +0000 <longwinsk> Bonfire will invest like Tencent in Web 2…🔥🔥🔥
+1544504505274081280 2022-07-06 02:12:24 +0000 <longwinsk> 哪里有什么书呆子呢？只不过是不读书的人对读书人的病态的羡慕嫉妒恨。
+1544111111154597888 2022-07-05 00:09:11 +0000 <longwinsk> saw my sushi chef cat 😀😀👋
+1543771637644152832 2022-07-04 01:40:14 +0000 <longwinsk> Chinese have a lot more similar memories than American😂
+1543524484451545088 2022-07-03 09:18:09 +0000 <longwinsk> 国内产业界和其间的创业团队有着完全不一样的Web3，DAO，元宇宙和token的概念体系（NFT和数字藏品的概念差别反而没那么大）。我想建议他们往外看看，可以从试着装一个钱包开始。
+1543042696654123008 2022-07-02 01:23:41 +0000 <longwinsk> @cz_binance 👍
+1542689302236102656 2022-07-01 01:59:26 +0000 <longwinsk> Meson solves asymmetry and no-save problems of bandwidth market in Web3 way. Awesome! @NetworkMeson @SherlockShi_AHA
+1542297454648778752 2022-06-30 00:02:22 +0000 <longwinsk> Crypto value believers 这时候不下注还做什么投资呢？不要想投到那个sweet spot, 按最能把握得住的那个规律“红灯比绿灯多”下注就行了，不要让其他心理上的干扰因素（要抄到绝对的底）影响你。如果有上帝视角，这样的策略反而是负ev。
+1542295664113070081 2022-06-29 23:55:15 +0000 <longwinsk> 很有意思。抓住你能抓住的规律“红灯比绿灯多”，然后简单地去执行。允许自己犯错，接受错误的发生，“笨”一定，“机械”一点才是正道。所以也不要去预测市场走势，有什么把握得住的观点执行就好，不要搞复杂了。有些alpha根本不应该争取的，要想拿反而亏。 水平再高，也不要想在德州里拿每一个pot。
+1541661059592777728 2022-06-28 05:53:33 +0000 <longwinsk> 非常赞同。
+1541576467334606848 2022-06-28 00:17:25 +0000 <longwinsk> Well done👍🔥
+1540529817166106624 2022-06-25 02:58:24 +0000 <longwinsk> @cz_binance @crypto @ThinkingCrypto1 Obviously by a biased and shallow journalist.
+1539041235716870144 2022-06-21 00:23:19 +0000 <longwinsk> RT @pcfli: 谈谈为什么在币圈投资不能加杠杆 1、币圈波动率太大，负面黑天鹅和灰犀牛多如牛毛，在币圈做投资，判断出错的几率非常大。因此风控就非常重要，哪怕你觉得你有足够的理由和证据来说服自己是正确的，也不能放弃风控。
+1538675657684660225 2022-06-20 00:10:38 +0000 <longwinsk> @cz_binance William took great memorable pictures👍
+1538364917702463489 2022-06-19 03:35:52 +0000 <longwinsk> 只要能确保活着，危就是机，中文的危机这个词太好了。ETH两个核心基本面变了吗？无论是第一智能合约平台还是POS机制的推出都没有变：优势在增强和巩固，时间还在移近。3000敢买，现在不敢买？比特币和BNB的基本面也没有变，恰恰相反，在我看来，各自优势还都在增强。币圈没有经济危机，只有金融危机。
+1538323827167375360 2022-06-19 00:52:35 +0000 <longwinsk> @cz_binance @elonmusk Haha
+1538000391639400452 2022-06-18 03:27:22 +0000 <longwinsk> RT @cz_binance: In 2017, we thought 20k was crazy high, today we think 20k is painfully low. The industry is growing.
+1537999802746605570 2022-06-18 03:25:02 +0000 <longwinsk> @AZhangerator @ZAGABOND @steamboy33 @Bamedi_ @iamashchild Like to see girls Azuki bald, haha
+1537971521737531392 2022-06-18 01:32:39 +0000 <longwinsk> Congrats! @zCloakNetwork We believe KYC and Privacy are the biggest two topics in the next chapter of Web3.  zCloak will play a key role.
+1537842564698472450 2022-06-17 17:00:13 +0000 <longwinsk> RT @ruyan768: CreatorDAO 收到的每一笔捐赠都会用于艺术创作, 感谢大家支持🙏
+1537631611696467968 2022-06-17 03:01:58 +0000 <longwinsk> @AZhangerator ok
+1537615171501166592 2022-06-17 01:56:39 +0000 <longwinsk> @AZhangerator How to vote?
+1536506004011352064 2022-06-14 00:29:12 +0000 <longwinsk> Solid and thorough analysis from Henry @ARSHenry1. Good read for true web3 builders in bear market.
+1535984733133320194 2022-06-12 13:57:52 +0000 <longwinsk> RT @cburniske: The good news: when you look back on these times from the vantage of next cycle’s boom, you’ll see we were ~around the botto…
+1535983207274803201 2022-06-12 13:51:48 +0000 <longwinsk> @AZhangerator @AzukiOfficial Sweep all Azukis below 10e.
+1535203882824916992 2022-06-10 10:15:03 +0000 <longwinsk> Congrats! 🔥@ruyan768 @creatordaocc
+1534521411972108288 2022-06-08 13:03:09 +0000 <longwinsk> 👀
+1534342505315151872 2022-06-08 01:12:14 +0000 <longwinsk> @yuanxiao1971 恭喜！
+1533721384634810368 2022-06-06 08:04:07 +0000 <longwinsk> RT @ZAGABOND: NFTs currently capture the value of ephemeral memes.   Capturing the value of perpetual memes in a brand-centric manner will…
+1533336612863479808 2022-06-05 06:35:11 +0000 <longwinsk> For stake not steak, can also go to @infstones and @HashQuark
+1533313859468963840 2022-06-05 05:04:46 +0000 <longwinsk> Well said.
+1532883317309116416 2022-06-04 00:33:57 +0000 <longwinsk> @DigiFTTech 🔥
+1532881327334207488 2022-06-04 00:26:02 +0000 <longwinsk> @milesjennings of @a16z is writing letters to SEC in the U.S. on how to regulate dex properly so not to jeopardize true financial innovations, especially after Luna/UST crashed (a tightening attitude is expected). MAS in Singapore may go in front to show a good case.
+1532880602797441024 2022-06-04 00:23:09 +0000 <longwinsk> STOs globally have not found a way to provide enough liquidity, the most important issue for all successful exchanges of any kind.  Leveraging dex mechanism with regulated setup is a way DigiFT wants to try out.
+1532879377196675073 2022-06-04 00:18:17 +0000 <longwinsk> 2) Bridge Web2 users with Web3 efficiencies, liquidities and innovations 7*24, and then owing cryptos and access to Web3 world.
+1532878152308887552 2022-06-04 00:13:25 +0000 <longwinsk> 1) Bridge Web3/crypto users with all kinds of Web 2 financial assets (tokenized) after KYC. You can trade oil futures, gold commodities, global blue chip stocks etc. No need to open accounts with local brokerage houses anymore.
+1532877692432855042 2022-06-04 00:11:36 +0000 <longwinsk> DigiFT is on the way to become the first regulated Dex/STO in Singapore and possibly in the world. Hash Global as the lead angel investor will work closely with DigiFT to:  https://t.co/jdJHK8q30L
+1532874305553321984 2022-06-03 23:58:08 +0000 <longwinsk> @AZhangerator @ZAGABOND Ok, will add one similar to my garden 👊
+1532870697969586176 2022-06-03 23:43:48 +0000 <longwinsk> STOs globally have not found a way to solve liquidity problem, which is the most important factor for a successful exchange of any kind. Leveraging dex mechanism with regulated setup is a way DigiFT want to try out.
+1532869413497499648 2022-06-03 23:38:42 +0000 <longwinsk> 2) Web2 users with Web3 Dexes including pools set up by DigiFT.  Users can go through Web2 financial institutions such as DBS to onboard Web3 financial facilities.
+1532868067365036032 2022-06-03 23:33:21 +0000 <longwinsk> 1) Web3/crypto users with all traditional financial assets(tokenized).  You will be able to trade oil futures, gold commodities, global blue chip stocks etc 7*24 from your wallet as long as you pass KYC. No need to open any account with local brokerage houses anymore;
+1532866721609965568 2022-06-03 23:28:00 +0000 <longwinsk> DigiFT is the first regulated Dex and STO in Singapore and possibly in the world.   Hash Global as the lead angle investor will work closely with DigiFT to bridge:  https://t.co/DhwBvodzqR
+1532864702866333696 2022-06-03 23:19:59 +0000 <longwinsk> @AZhangerator you bought a treasure😍. Can’t wait for the story revealed. 007 or Bruce Wayne in Azuki Metaverse? @ZAGABOND
+1532599426178396161 2022-06-03 05:45:52 +0000 <longwinsk> Honored to be invited to present Silver Prize to Kwil Database. Congrats to the team  https://t.co/dmxTiZsT3i and to @ETHShanghai2022 for hosting such a great event 👍🔥
+1532203141478789120 2022-06-02 03:31:10 +0000 <longwinsk> “The future is in Beta” 👍@ethsign @realyanxin
+1532186079779901440 2022-06-02 02:23:22 +0000 <longwinsk> Proud to become a key investor from Round A two years ago. Ever since, InfStones has really become the Infinity “Stones=Nodes” for Web 3, a unicorn was born in Web 3 speed. Congrats🔥@infstones + @HashGlobal
+1531986939028484098 2022-06-01 13:12:03 +0000 <longwinsk> @AZhangerator @SpiritDao_ It’s 8:00am Shanghai，June 10th, not that bad.
+1531953001593614337 2022-06-01 10:57:12 +0000 <longwinsk> @pcfli 哈哈
+1531620493765201920 2022-05-31 12:55:56 +0000 <longwinsk> RT @creatordaocc: The father, Captain BAYC#2023 @0xCayson and the daughter, Little Bunny Sailor MAYC#4627 sailed million miles, finally see…
+1531618662419165185 2022-05-31 12:48:39 +0000 <longwinsk>  https://t.co/Fn7YnXnJUV
+1531500443712430081 2022-05-31 04:58:54 +0000 <longwinsk> Only 7 years to go…
+1531464758754299904 2022-05-31 02:37:06 +0000 <longwinsk> Our first project in Japan @Pictoria_Inc Vtuber+NFT🔥. Happy to work with @skylandvc @kinoshitay @yuanxiao1971 and @realMaskNetwork @suji_yan . おめでとうございます @ake_hayack 👍
+1531460810463006720 2022-05-31 02:21:25 +0000 <longwinsk> @realyanxin @livlarocca @ethsign Dark one
+1531445718321225728 2022-05-31 01:21:26 +0000 <longwinsk> RT @pcfli: 关于meme会在币圈引发泡沫的原因探索
+1531264452963708928 2022-05-30 13:21:09 +0000 <longwinsk> 👀
+1531260493607817218 2022-05-30 13:05:25 +0000 <longwinsk> RT @suji_yan: 🇸🇬
+1530788410406801408 2022-05-29 05:49:32 +0000 <longwinsk> @AZhangerator @IcedcoffeeEth This beanz is so cool
+1530783964004134912 2022-05-29 05:31:52 +0000 <longwinsk> @febtea @ZAGABOND We can talk to Yao’s foundation on co-building😀
+1530562089978241024 2022-05-28 14:50:13 +0000 <longwinsk> Best article on Azuki ever read 👍
+1530515915111944193 2022-05-28 11:46:44 +0000 <longwinsk> True innovation in SBT + NFT , more manageable NFT utility to come 🔥@porounclemao @rpcnftclub
+1530414692555821056 2022-05-28 05:04:31 +0000 <longwinsk> 👀
+1530357367547699200 2022-05-28 01:16:43 +0000 <longwinsk> @mindaoyang 说得好
+1530348964867760128 2022-05-28 00:43:20 +0000 <longwinsk> RT @SeanHayes: Why won’t this fella age? #TopGunMaverick  https://t.co/h2js7Gy9h2
+1530024628604637184 2022-05-27 03:14:32 +0000 <longwinsk> RT @ETHShanghai2022: We had a total of over 60k views among all streaming platforms, with 6k people online at the same time during peak mom…
+1529693598496698368 2022-05-26 05:19:08 +0000 <longwinsk> Happy to one of Footprint’s backers, super friendly for both developers and users 🔥👍@Footprint_DeFi @HashGlobal
+1529650160598278144 2022-05-26 02:26:32 +0000 <longwinsk> @0xcryptochess 下午可以聊聊哈
+1529313170455572481 2022-05-25 04:07:27 +0000 <longwinsk> @fishkiller 有什么好的中国项目吗？
+1529278036582944768 2022-05-25 01:47:51 +0000 <longwinsk> @fishkiller 是他们啊？刚看了we crash😱
+1529270626241826816 2022-05-25 01:18:24 +0000 <longwinsk> Just as a mere fork won’t add any value and layer 3 won’t help with chain’s throughput/security balance.
+1528974868158423041 2022-05-24 05:43:10 +0000 <longwinsk> 所以每个人未来真的会有几百万甚至千万级别的NFT，如何获得及管理好这些NFT @ShowMeNFT ；是否应该用token centric的方式来应对海量应用的请求@STL_cn ；如何解决隐私问题@PlatON_Network @zCloakNetwork ；如何挖掘分析NFT持有者的关系@Knn3Network ，等等等等都是Web3创业团队的机会。
+1528949341884362753 2022-05-24 04:01:44 +0000 <longwinsk> 哲学意义上来讲，人就是社会关系的总和。Glen Weyl和Vitalik的论文相当于给了这句话指明一个实现方式：用soul钱包和sbt为载体，可以把社交关系都记录和存放在链上，这样才真正把人本身映射在了链上，这样metaverse才有实现的基础吧。
+1528739666177929217 2022-05-23 14:08:33 +0000 <longwinsk> We are advising Xin Fund Mgmt in crypto/web3 area and regularly invest in larger web3 projects alongside our flagship vc fund. Another reason to choose Hash Global.  @HashGlobal
+1528550063697301504 2022-05-23 01:35:08 +0000 <longwinsk> 国内多一些主流金融圈的报告，说实话无论质量，只要能正本清源，上达视听，扭转偏见，对行业就是好事。 https://t.co/jNG6abDQGC
+1528350782931644416 2022-05-22 12:23:16 +0000 <longwinsk> RT @ruyan768: Web3 不应该各自为战,  而应该基于Lens不断积累共同的用户池(重用Profile)  @LensProtocol 的价值是NFT的可检索特性, 用户行为都会产生相应的NFT,  NFT让内容所有权具像化, 用户随时迁移, 随时换客户端. 十年…
+1528312161025466368 2022-05-22 09:49:48 +0000 <longwinsk> @AZhangerator @AzukiOfficial 总结得好。
+1528271285603643392 2022-05-22 07:07:23 +0000 <longwinsk> @pitdesi @justindross @3LAU Really? 😀
+1528268220355883009 2022-05-22 06:55:12 +0000 <longwinsk> Web3 beats Web2 in the same way as open market beats closed market.  The bigger market always wins.
+1527488849525428224 2022-05-20 03:18:15 +0000 <longwinsk> 👀
+1527459688769474560 2022-05-20 01:22:23 +0000 <longwinsk> @ATTA_Protocol is a project working on this. @heyibinance @cz_binance
+1527284972842758144 2022-05-19 13:48:07 +0000 <longwinsk> RT @HashGlobal: Don’t miss the last day!✨
+1527284666377441281 2022-05-19 13:46:54 +0000 <longwinsk> RT @ShowMeNFT: #SocialFi👩‍💻 is re-shaping Social Media🔮💬 unlocking NEW possibilities with verifiable ownership🔐  Build with #ShowMe
+1526896555542089734 2022-05-18 12:04:41 +0000 <longwinsk> RT @Knn3Network: KNN3 ETH Shanghai Special Builder Bounty aims to inspire Web3 builders to build their dApps on KNN3 topological graph data…
+1526896182848393217 2022-05-18 12:03:13 +0000 <longwinsk> 很高兴能和其他投资人一起，继续支持“链闻黑帮”，ChainNews Mafia never die 🙌 @nake13 @fishkiller @ChainFeedsxyz
+1526775953031979009 2022-05-18 04:05:27 +0000 <longwinsk> @pythianism lol
+1526775774811893760 2022-05-18 04:04:45 +0000 <longwinsk> @fishkiller @jx_block @MarcGoldich 他们就是来背书赚钱的。
+1526758121024024576 2022-05-18 02:54:36 +0000 <longwinsk> Engine restarted…
+1526568934429691904 2022-05-17 14:22:50 +0000 <longwinsk> @Bamedi_ @NFTethics lol
+1526389002663694337 2022-05-17 02:27:51 +0000 <longwinsk> Excited to see this type of co-building in Web3.🔥 @ethsign @epns
+1526132558525673473 2022-05-16 09:28:50 +0000 <longwinsk> RT @cz_binance: 1/5. Some interesting updates, full transparency and lead to protect users:  As it turns out, most UST pairs were 0 fee to…
+1526123640365776896 2022-05-16 08:53:24 +0000 <longwinsk> @fishkiller 一早起来就喝酒啊？
+1525718929624035329 2022-05-15 06:05:13 +0000 <longwinsk> Ultimately, we will for sure see on-chain IP management systems emerge to meet the need of fast growing NFTs, NFT derivatives and other Web3 economies.   @TokenScript provides a solution.@AzukiOfficial   https://t.co/ZMa7bBmTsf
+1525063341294505985 2022-05-13 10:40:09 +0000 <longwinsk> @cz_binance Binance has always been doing the right thing for the benefit of the whole industry and for the long term.
+1524683519171072000 2022-05-12 09:30:52 +0000 <longwinsk> 👍
+1524667535752187904 2022-05-12 08:27:22 +0000 <longwinsk> RT @mindaoyang: 1/ Terra的爆雷带崩了市场，虽然很多人没Luna/UST，但也连带受损。 我印象中，和这次事件能量级相当的是14年的MtGox（门头沟）破产事件和16年以太坊the DAO盗币分叉事件。 我刚好也是这两个事件亲历者，希望分享出来，能给经历这…
+1524372219517755393 2022-05-11 12:53:53 +0000 <longwinsk> RT @HashGlobal: Only 6 days left to apply. Let's build the next generation of social app together👐  #ETHShanghaiHackathon  https://t.co/mmx7…
+1524354452357926912 2022-05-11 11:43:17 +0000 <longwinsk> RT @notalexlin: after all that has happened in NFT land over the last 2 days, it's clear why we can't have nice things.   I have no right t…
+1524195483031199744 2022-05-11 01:11:35 +0000 <longwinsk> RT @z3thnft: listened to the space hosted by @andr3w with @zagabond. someone asked if past project holders would receive airdrops from #Azu…
+1524091353197547521 2022-05-10 18:17:49 +0000 <longwinsk> @ZAGABOND Be as strong as CZ, focus ONLY on what’s important, keep building. / You just survived an unprepared twitter space hosted by bunch of hostile people, forget about them. You managed well.
+1523926975286431744 2022-05-10 07:24:38 +0000 <longwinsk> 👀
+1523876553452531712 2022-05-10 04:04:17 +0000 <longwinsk> RT @Walter_JCHuang: To @rpcnftclub 和@AzukiOfficial fam，最近参与到MaoDAO的建设后，深刻的感受到了社区建设和维护的不易。 NFT创业团队都面临着多方压力和恶意，作为builder我能做的就是找到价值观相同的团队和社区，参…
+1523846923626549248 2022-05-10 02:06:32 +0000 <longwinsk> @Victor928 @fishkiller 哈哈
+1523596780201410561 2022-05-09 09:32:34 +0000 <longwinsk> Want to watch horse racing movies: Seabiscuit, Secretariat again.
+1523582643844968448 2022-05-09 08:36:23 +0000 <longwinsk> Rewarding for new ideas and innovations in Web3 is immediate and a lot more efficient than in Web2, that’s why Web3 has much faster product iteration and ecosystem evolvement. Dr. Carlota Perez should write a sequel for her book《Technological Revolution and Financial Capital》.
+1523188773164527616 2022-05-08 06:31:17 +0000 <longwinsk> 🔥
+1523188035256406016 2022-05-08 06:28:21 +0000 <longwinsk> @SKYSTAR84160802 @HashGlobal 三轮了，每轮价格不一样。
+1522850188422901760 2022-05-07 08:05:52 +0000 <longwinsk> Verifying my identity for @viamirror  sig:0xfa5b04782950096eff23e9cba862988b76eace5574a84207a91c191f17c845f32840faa8820c24d62a522dccb797acefbd2f8a344b51038eb8ccf890ea8cedeb1c   https://t.co/f9rRt60LgQ
+1522807201785466880 2022-05-07 05:15:03 +0000 <longwinsk> Local governments in Japan are using NFT to substitute souvenir gifts for tax rewards, a true innovation by @alyawmu, a portfolio company of Skyland Ventures @skylandvc @kinoshitay @yuanxiao1971 👍Another example of NFT’s power in ESG.
+1522756091767136258 2022-05-07 01:51:58 +0000 <longwinsk> RT @HashGlobal: What role can #web3 play in building a more open global economy?  Our partner SK @longwinsk shared his insight via @zaobaos…
+1522579511069614081 2022-05-06 14:10:18 +0000 <longwinsk> 虎年虎炸，很喜气。
+1522579109502619649 2022-05-06 14:08:42 +0000 <longwinsk> Unbridled progress, like a rising sun! 青云日上! #TigerYearTigerExplosions, the first collaboration between artist Cai Guo-Qiang and his daughter Cai Wen-You!🐯🐯🐯  📢Find more on @721Land #721Land #NFT #NFTCommunity  https://t.co/4eDdzPpbxg
+1522512579007971330 2022-05-06 09:44:20 +0000 <longwinsk> @furyfrog1993 @HashGlobal 刚完成种子轮，只有我们和另外一家发起机构参与了。市场的确还不知道。
+1522471095190065153 2022-05-06 06:59:29 +0000 <longwinsk> 👀👀
+1522208978226216962 2022-05-05 13:37:56 +0000 <longwinsk> 佩服@suji_yan 很早就yy过。
+1522183560584564736 2022-05-05 11:56:56 +0000 <longwinsk> Need to be a part of it as an investment team from Shanghai 👊👊🔥🔥
+1522104293171425280 2022-05-05 06:41:57 +0000 <longwinsk> 如火如荼，crypto is raging fire🔥
+1522097835595812864 2022-05-05 06:16:17 +0000 <longwinsk> Web3 is truly global while Web2 is regional in essence.
+1522097608503615488 2022-05-05 06:15:23 +0000 <longwinsk> Chinese Web3 VCs and start-ups face a lot more challenges than their Web2 counterparts as: 1. From day one, need to compete against players around the world, no regional market specially for you to test with; 2. No American forerunners’ experience/lessons for you to learn/refer.
+1522096568341475329 2022-05-05 06:11:15 +0000 <longwinsk> 中国背景的Web3VC和创业团队比Web2同行面临的挑战要大得多，原因：1. 一开始就要面临全球项目的全面竞争，没有一个区域市场专门给你玩；2. 没有美国先行成功项目的经验可以参考和借鉴。所以说，Web3是真正全球化的，Web2其实是区域性的。
+1522095396482211840 2022-05-05 06:06:36 +0000 <longwinsk> Chinese Web3 VCs and start-ups face a lot more chanllages than their Web2 counterparts as: 1. from day one, need to compete against all players around the world, no regional markets specifically for you; 2. no American forerunners’ knowledge/lessons can be learned/referred.
+1522093819730137088 2022-05-05 06:00:20 +0000 <longwinsk> 中国背景的Web3VC机构和创业者比Web2的同行面临的挑战要大得多：1. 项目一开始就得面临全球同行的竞争，没有一个区域市场来给专门给你玩；2.没有美国市场同行的先行经验给你参考。所以说web2其实都是区域的，web3是真正全球的。
+1522076608894423040 2022-05-05 04:51:57 +0000 <longwinsk> @realwuzhe @XMRer 最后几句话是关键啊，他们可以补充btc。
+1521775966401433600 2022-05-04 08:57:18 +0000 <longwinsk> RT @ruyan768: 1/* 🧵  每次巨大财富机会都源自于分配机制创新，NFT也是如此。大多数人对NFT都有误解，其实它只是更先进的公开发行机制，通过参与BAYC的早期发行，个人投资者得到了比机构更优的一级市场机会。大部分NFT项目都对机构不友好（因为流动性较差，且极易…
+1521773759236956160 2022-05-04 08:48:32 +0000 <longwinsk> @pcfli @HashGlobal 当然是，很棒的项目。
+1521726486058655744 2022-05-04 05:40:41 +0000 <longwinsk> @reilostX 看好的。也在投。
+1521723240024272897 2022-05-04 05:27:47 +0000 <longwinsk> We are looking for projects in areas above, please DM me directly or @HashGlobal .  Thank you.
+1521722984641478656 2022-05-04 05:26:46 +0000 <longwinsk> 1. Decentralized updatable storage; 2. Proof of work, better IOT connected; 3. Crypto hardware, not limited to mining machines, brand conscious;4.Decentralized game logic service;5. NFT derivative (financially and creatively) related;6. Desci and token motivated ESG related.
+1521721345935278080 2022-05-04 05:20:15 +0000 <longwinsk> 把已投的项目（Infstones，Hashquark，Debank，Mask，Meson，RSS3，Showme，BoatAO，Everfinance，zCloak，Memo，NFTGo....）和我们构想的Web3堆栈做了对比，有几个领域我们会主动地去寻找优秀的创业团队。和大家分享一下，也希望大家DM推荐@longwinsk @hashglobal
+1521411461783822336 2022-05-03 08:48:53 +0000 <longwinsk> RT @STL_cn: #gm 今天跟大家详细展开聊聊 @TokenScript —— 为什么是品牌 IP 的 Connector (关键链接）🧵  1/ BlockChain 基于底层的区块链，L2/中间层可以通过品牌连接器(Brand Connector)进行访问。比如访问…
+1521103766715453440 2022-05-02 12:26:13 +0000 <longwinsk> I would buy all your #bitcoin for $50.
+1520608940827979778 2022-05-01 03:39:57 +0000 <longwinsk> Always thoughtful and inspiring.
+1520335424865980416 2022-04-30 09:33:06 +0000 <longwinsk> feels like the tone in wecrashed-the documentary episodes about  wework, but anyway, welcome to web3.0.
+1520240613320396800 2022-04-30 03:16:21 +0000 <longwinsk> 举双手赞同。
+1520239772907675648 2022-04-30 03:13:01 +0000 <longwinsk> @MapleLeafCap 举双手赞同。
+1520221346940080128 2022-04-30 01:59:48 +0000 <longwinsk> @ShuaiqinS 中长期有不中心化的解决办法，而且至少前端用户是有选择权的。
+1519961117841256450 2022-04-29 08:45:44 +0000 <longwinsk> 很高兴能参与SeeDao的融资，期待和SeaDao这样的优秀团队和社区一起去打“文化战争”。@HashGlobal @see_dao
+1519908234215100416 2022-04-29 05:15:36 +0000 <longwinsk> 感谢早报的认可🙏@zaobaosg
+1519873002506051584 2022-04-29 02:55:36 +0000 <longwinsk> 6）我们已经看到美国、英国、法国和日本等国家在政策制定层面都在积极拥抱Web3，我们对Web3最终促成一个更加开放和更加可持续发展的全球一体化经济的前景表示乐观。 全文可见联合早报的链接。
+1519872844825432064 2022-04-29 02:54:58 +0000 <longwinsk> 5）正如互联网技术在21世纪初推动了全球化一样，我们期待Web3技术能够在保护用户数据隐私和联通全球方面起到新一代互联网技术的作用。从技术与文明的发展历史来看，技术都是中立的，而技术发展的趋势不可阻挡。各国政府应该思考如何拥抱新技术，拥抱创新，同时加强监管并积极面对新技术带来的新问题。
+1519872687203520512 2022-04-29 02:54:21 +0000 <longwinsk> 4）我们认为越是在互联网层面上实现更便捷的信息和价值流动，就越需要政府的公共部门发挥更多的监管作用。由于所有交易和行为都记录在链上，政府只要对重要业务，较大的交易金额和关键信息节点等方面做好KYC和反洗钱等工作，监管其实会变得更高效（因为不再需要任何中介和平台来配合提供数据）。
+1519872323930640385 2022-04-29 02:52:54 +0000 <longwinsk> 3）另外一点，由于所有交易和行为数据全网透明，数据不再被某个区域性的互联网平台所拥有，互联网经济也将变得更加开放。中小国家或公司只要有竞争力，可以更灵活地对全球用户进行产品营销和提供服务。
+1519872276060987395 2022-04-29 02:52:43 +0000 <longwinsk> 2）我们所熟悉的Web1/Web2互联网经济其实是区域性的。用户身份是平台给予，数据是平台垄断，所以也很容易被地域性的政策影响和切断。Web3由于底层是基于区块链，用户的登陆身份不再依托某个互联网应用，而是全球统一为链上的钱包地址，这样就在底层机制上确保了Web3的经济形态是真正全球化且不可切断。
+1519871218987327488 2022-04-29 02:48:31 +0000 <longwinsk> 今天在新加坡联合早报发了一篇文章，题目是《Web3可实现全球一体化经济》，希望能帮助更多的人理解Web3。 https://t.co/7lcQphKf6q
+1519859113798234113 2022-04-29 02:00:25 +0000 <longwinsk> @kinoshitay Very cool
+1519638490236866560 2022-04-28 11:23:44 +0000 <longwinsk> @yuanxiao1971 袁老板发财啊
+1519550008709640192 2022-04-28 05:32:08 +0000 <longwinsk> Congrats to Skyland Ventures - our Japanese partner ! 👍@yuanxiao1971 @suji_yan @realMaskNetwork @HashGlobal
+1519547451199262720 2022-04-28 05:21:58 +0000 <longwinsk> @suji_yan Also a Keio alum here,haha
+1518817782556549120 2022-04-26 05:02:32 +0000 <longwinsk> @fishkiller 这个我熟悉，他们一旦配了，不会做操作的。公募基金做个指数产品，躺着吃管理费就行，本质上是个牌照生意。
+1518812020002357249 2022-04-26 04:39:38 +0000 <longwinsk> 什么时候国人的社保也可以配置点，别都丢到折腾了15年还在3000点的大A股了😀@fishkiller
+1518810535751348224 2022-04-26 04:33:44 +0000 <longwinsk> Way to go!
+1518765622372360192 2022-04-26 01:35:16 +0000 <longwinsk> Also see the comments/replies. @suji_yan
+1518201210414587904 2022-04-24 12:12:30 +0000 <longwinsk> 疫情期间，尤其是在当下的上海，工作强度和学习热情完全不受影响的可能只有Web3的创业者和投资人了吧。
+1518043045123411968 2022-04-24 01:44:00 +0000 <longwinsk> NFT is becoming the core of Japan’s Web3 national strategy.  China should follow and seriously look into what’s happening in the public chain/Web3 business world,  where all real innovations are. @TAIRAMASAAKI @WatanabeSota  https://t.co/bBvQGezoEz
+1517846830196740096 2022-04-23 12:44:19 +0000 <longwinsk> RT @rpcnftclub: 本周 @maodaolabs @rpcnftclub 周报进展  - MaoDAO 改名为 MaoDAO | M³ Labs 正式开展 Web3 产品孵化，首个产品为 @nftluckbox 🎆 - 【喜报】RPC 社区白名单库（ +2）👀 获得…
+1517752113614311424 2022-04-23 06:27:57 +0000 <longwinsk> Time to review our policy….
+1517740163853537280 2022-04-23 05:40:27 +0000 <longwinsk> @DOnlyKingdavid @cz_binance Not millionaire, trillionaire.
+1517696472359219200 2022-04-23 02:46:51 +0000 <longwinsk> 平将明（名字一看应该是贵族）是日本自由民主党众议员，看来日本也要在美国之后，把web3作为国策了。
+1517336053492830208 2022-04-22 02:54:40 +0000 <longwinsk> Cool stuff - Champ Tiger for Chinese Tiger Year, a derivative NFT from BAYC#1013 @niftytailor @TokenScript @Victor928 👍  https://t.co/FDIgWDL7uO
+1517131138820497414 2022-04-21 13:20:25 +0000 <longwinsk> 👀
+1517075158048989184 2022-04-21 09:37:58 +0000 <longwinsk> RT @rss3_: 🔥 Last week, new trending on RSS3 network   👑 @OpenBlox_io was the most popular word, with @realMaskNetwork coming in third  👀 @…
+1516662300920352769 2022-04-20 06:17:25 +0000 <longwinsk> Web3 需要更好的去中心化方式来激励打造的带宽基础设施，我们领投了Meson Network这一轮，期待Meson成为Web3世界不可或缺的带宽基础设施，甚至更多…@NetworkMeson @SherlockShi_AHA 👍
+1516661286066884609 2022-04-20 06:13:23 +0000 <longwinsk> Web3 needs better bandwidth infra, more importantly, decentralizedly motivated and built. As an investor of past two rounds, we have seen robust growth of Meson. We led this round and expect to see Meson become “the default provider of bandwidth resources in Web3”.@networkmeson
+1516338917464674307 2022-04-19 08:52:24 +0000 <longwinsk> RT @HeimanW: Stealing the moon.  https://t.co/N2Giwp2pJM
+1515614267273191428 2022-04-17 08:52:54 +0000 <longwinsk> 我们说的中国人创业团队，都具有很好的国际视野和国际化能力，因为区块链和Web3就没有区域性的项目。
+1515166547672649731 2022-04-16 03:13:50 +0000 <longwinsk> @B24hunter 我们后期会陆续官宣一些投资的项目，您可以关注一下。
+1515165389067472901 2022-04-16 03:09:13 +0000 <longwinsk> @06iPY0ZFskkEwoJ @zeroonerobin 好，谢谢。
+1514986820441985026 2022-04-15 15:19:39 +0000 <longwinsk> RT @melos_studio: 1 hour to go before the Whale Tears #MusicNFT drop w/ Melos Studio  Win the free Whale Tears music NFT + special NFT from…
+1514985046586785792 2022-04-15 15:12:36 +0000 <longwinsk> @kingweb168 的确都挺好
+1514974130793172995 2022-04-15 14:29:14 +0000 <longwinsk> @Digitata_jack 其实真的不少的，国内好项目虽然少，中国人做的好项目很多。
+1514904675786526722 2022-04-15 09:53:14 +0000 <longwinsk> Very well said.
+1514875345626755072 2022-04-15 07:56:42 +0000 <longwinsk> RT @Knn3Network: We are glad to announce a strategic partnership with @ShowMeNFT ! 🎉  The partnership will focus on empowering ShowMe's mar…
+1514859998601375747 2022-04-15 06:55:43 +0000 <longwinsk> @marxun 公链我们看的能力不够。
+1514836461719220225 2022-04-15 05:22:11 +0000 <longwinsk> Let this suggestion been heard.
+1514836015646535682 2022-04-15 05:20:25 +0000 <longwinsk> @zhaiyuchen007 团队很好，绑定某条公链我们有点吃不准，觉得ens可能会占绝对优势，所以没有参与。
+1514823380461006848 2022-04-15 04:30:12 +0000 <longwinsk> @jackche60524769 嗯 看过
+1514818227582373892 2022-04-15 04:09:44 +0000 <longwinsk> @Ericpichad @Stratos_Network @airwaive_biz @Pornhub @BinZhu_NOTBOX 好的，谢谢。 stratos我们看看，airwaive我们聊过，也不错。
+1514808361610481665 2022-04-15 03:30:31 +0000 <longwinsk> Legend + Meson
+1514802011941720087 2022-04-15 03:05:17 +0000 <longwinsk> @laichen5201314 @ruyan768 @NEXTYPE1 我们有参与活动，具体这个项目我还不清楚。
+1514801599712882696 2022-04-15 03:03:39 +0000 <longwinsk> @uhr3al @Stepnofficial 很棒，可信错过了。
+1514801358578147330 2022-04-15 03:02:42 +0000 <longwinsk> @gogodex2 @dotbitHQ @TimYang_bit 嗯，的确不错，谢谢。
+1514801134686244880 2022-04-15 03:01:48 +0000 <longwinsk> @zhaiyuchen007 投过，谢谢。
+1514800945472806921 2022-04-15 03:01:03 +0000 <longwinsk> @blockxiaodaoshi @Lianshucha 好，谢谢。
+1514643779696803840 2022-04-14 16:36:32 +0000 <longwinsk> @Xmls_huang @ruyan768 @PandaDAO_Office @hellopandadao 好的，谢谢。dm了。
+1514643357212942338 2022-04-14 16:34:51 +0000 <longwinsk> @Carey_bsc @devoteEndlessly @zolo_hands @HashGlobal @Bwitter_ 关注了。
+1514642903112425472 2022-04-14 16:33:03 +0000 <longwinsk> RT @NetworkMeson: 💡We’re incredibly thrilled to partner with @nymproject @harryhalpin with Nym launch event is happening tonight.   📡Join t…
+1514642714838507520 2022-04-14 16:32:18 +0000 <longwinsk> @Xmls_huang @ruyan768 @PandaDAO_Office 好的，谢谢。他们融资吗？
+1514639497593454593 2022-04-14 16:19:31 +0000 <longwinsk> RT @fredwilson: Twitter is too important to be owned and controlled by a single person. The opposite should be happening. Twitter should be…
+1514637823638315013 2022-04-14 16:12:52 +0000 <longwinsk> @dajiejie1 好的，我们看一下。
+1514637726796029961 2022-04-14 16:12:29 +0000 <longwinsk> @whtzxf @moondao 关注了
+1514627061826011137 2022-04-14 15:30:06 +0000 <longwinsk> Congrats!@suji_yan
+1514611348872724493 2022-04-14 14:27:40 +0000 <longwinsk> @RouterA 可以聊啊。
+1514610713494315031 2022-04-14 14:25:08 +0000 <longwinsk> @no1harm @rss3_ 谢谢，我们投了天使和A轮。
+1514610325533822978 2022-04-14 14:23:36 +0000 <longwinsk> @_MetaBowen 好的，私聊，谢谢。
+1514588766106648582 2022-04-14 12:57:56 +0000 <longwinsk> @CryptoLoser9 @PicMagicWeb3 好的，我们看看，谢谢。
+1514568569358458883 2022-04-14 11:37:40 +0000 <longwinsk> @csx_ing 团队聊过，不错的。
+1514510645584031749 2022-04-14 07:47:30 +0000 <longwinsk> Hash Global在Web3有两个投资战略： 1. 投中国人为主的创始团队（我们能力触角所限；人才多；二十年互联网创业环境土壤；早期在全球Crypto行业的优势和各种积累）； 2. 投打通Web2和Web3的项目，或者说帮助Web3最终吞噬Web2的项目（我们从Web2来，在Web2有资源；海量用户还在Web2）。欢迎大家DM推荐。
+1514182564587606025 2022-04-13 10:03:50 +0000 <longwinsk> Media people in Web 3 industry tend to be good investor/entrepreneurs in this field as well, just like many printing workers in the 17-18th century became quite outstanding during that time, to name one, Benjamin Franklin.
+1514181167846621184 2022-04-13 09:58:17 +0000 <longwinsk> 发现web3/crypto行业里的媒体工作者（或者曾经的）做投资或者创业都很厉害，有点像17-18世纪的印刷工人中出了不少人才（富兰克林为代表），因为他们得识字，文化水平高，有机会接触那个时代最优秀的一批人，哈哈。
+1514055613063467012 2022-04-13 01:39:22 +0000 <longwinsk> RT @ipsofactoneill: LFG!!! 🔥🔥🚀  @HarvardHBS @BoredApeYC @LooksRareNFT    #web3 #nfts #BAYC #ape  https://t.co/2lfU0sKDwx
+1514055432112783361 2022-04-13 01:38:39 +0000 <longwinsk> RT @AzukiOfficial:  https://t.co/lIXqY6Nkyd
+1513470864435548166 2022-04-11 10:55:47 +0000 <longwinsk> RT @PlatON_Network: 🎁300,000 LAT rewarded! The Privacy-Preserving Network Metis is opening its 0.3.0 community beta on March 5th for a peri…
+1513109598013558785 2022-04-10 11:00:15 +0000 <longwinsk> RT @suji_yan: I want to formally congratulate the winners of our 1st Web3 Dropout Scholarship💰! @ChunHaoLee_ @daniel03z3 @bxjsjsbhdhwjb The…
+1513079447401816065 2022-04-10 09:00:26 +0000 <longwinsk> RT @cz_binance: Wasn't this obvious from 2 years ago?   https://t.co/FiUae5PBXb
+1512702470799048705 2022-04-09 08:02:28 +0000 <longwinsk> 读了Miles Jennings的文章《Decentralization for Web3 Builders》的最大感受：美国各个方面已经准备好了全面拥抱Web3，监管路径越来越清晰，从齐头并进到落后一个时代，原来只需要2年半左右的时间。
+1512688641570529282 2022-04-09 07:07:31 +0000 <longwinsk> 4/10日晚10点
+1512674566723629057 2022-04-09 06:11:35 +0000 <longwinsk> worth reading for all web3 founders and investors.
+1512633589204393984 2022-04-09 03:28:45 +0000 <longwinsk> 等着@tokenscript @fishkiller 来玩azuki，还有其他...😍
+1512627789329215490 2022-04-09 03:05:42 +0000 <longwinsk> RT @Victor928: The most powerful derivative contracts made by @TokenScript , audited by @SECBIT_IO , have full IP managment/licensing, mult…
+1512413987136151559 2022-04-08 12:56:08 +0000 <longwinsk> @katie_haun @HaunVentures 5) I look forward to talking to you at your first convinience, thanks for your consideration.  Best,  James
+1512413836967497732 2022-04-08 12:55:32 +0000 <longwinsk> @katie_haun @HaunVentures 4) I think we can bring value on covering Chinese start-ups and local business connections in Asia. I have been looking to set up a good connection with a prestige investment institution in U.S., even better, newly founded and with regulation conscious and global perspective.
+1512413396276154371 2022-04-08 12:53:47 +0000 <longwinsk> @katie_haun @HaunVentures 3) We do not have good connection in Silicon Valley or more broadly the U.S., therefore we focuses on projects founded by Chinese teams, no matter where the team actually is. We were the lead investor of Mask Network, PlatOn, Meson, Showme, DigiFT etc.
+1512412771480387586 2022-04-08 12:51:18 +0000 <longwinsk> @katie_haun @HaunVentures 2) We have invested over 50 projects so far with total investment amount over 100million USD(cost base). Our investors are mainly family offices in Singapore and Hong Kong, which include Mr. Liang Xin Jun, the co-founder of Fosun Group in China.
+1512412400196096003 2022-04-08 12:49:50 +0000 <longwinsk> @katie_haun @HaunVentures Dear Kathryn,  This is James Shen, I am the founder of Hash Global, a Web 3 venture capital firm based in Shanghai.   Congratulations on your new adventure and I am writing to see if any kind of collaboration or dialogue could be set up between Haun Ventures and Hash Global.
+1511999904641536001 2022-04-07 09:30:43 +0000 <longwinsk> RT @Knn3Network: It was a great experience with the @poddbofficial team to co-build Pigeon envelope and our first web3-native campaign.   1…
+1511994879546560514 2022-04-07 09:10:45 +0000 <longwinsk> RT @PlatONWorld: Hi,There! Here is PlatONWorld's first @ShowMeNFT Club, the first 100 people to join the Club, the last number of the NFT M…
+1511873687779115008 2022-04-07 01:09:11 +0000 <longwinsk> RT @niftytailor: Why mint on Sunday? Because we’ve lined up some of the finest outfits in the metaverse, all waiting to be put on your bore…
+1511683645215412232 2022-04-06 12:34:01 +0000 <longwinsk> Web3 keywords
+1511645972840914944 2022-04-06 10:04:19 +0000 <longwinsk> @0xCryptoSea 周五晚几点啊？
+1511184585698119681 2022-04-05 03:30:56 +0000 <longwinsk> RT @looksrare_eth: Matrixport Ventures recently published a report on the NFT financialization space. With the rise of metaverses, brands a…
+1510158574315446272 2022-04-02 07:33:56 +0000 <longwinsk> Web2讲的是企业文化，web3则是DAO Vibe。
+1510062568294866946 2022-04-02 01:12:26 +0000 <longwinsk> Haha, truly coin base mentality
+1509491021154951172 2022-03-31 11:21:19 +0000 <longwinsk> RT @Diana19959295: 【Azuki会是下一个BAYC吗？】 1/两个多月前，我们公司都在为一个NFT项目疯狂，那就是Azuki。CryptoC做的是NFT资产发行，我们深深参与了许多NFT项目的策划、发售和运营，因此很清楚一个项目从开始到发售，以及最后成功有多么…
+1509467876440215554 2022-03-31 09:49:20 +0000 <longwinsk> Once poker mate in Shanghai, great achievements!👍
+1508622651647877128 2022-03-29 01:50:43 +0000 <longwinsk> RT @NetworkMeson: 📢Content2049 X STEPN FireChat! 😍Speak with @Stepnofficial cofounder @yawn_rong and @FoliusVentures founder Jason about ST…
+1507724638973214721 2022-03-26 14:22:20 +0000 <longwinsk> @MutantShibaClub 🎭 Verifying my Twitter ID @longwinsk for @NextDotID. Sig: jyeQntBHOFtXFkmHRTiKZHtgXxsv9e1+yt2viuyQw0sm19chYRrCs1pvvpSxJIcB2ypiFj54Op2IYZW6fKQEPRs=  Install  https://t.co/OXAbUjQiW1 to enhance your Web3 experience.
+1507209961155497986 2022-03-25 04:17:12 +0000 <longwinsk> @ROBBi_NFT  0x45e056921bdd9fb9cb34fa1fa7e58daa0ccb57fe484fb95f3b8b7d9155318aa6
+1507209088903499778 2022-03-25 04:13:44 +0000 <longwinsk> @ROBBi_NFT How to get refund? Will tx hash being provided enough? Thanks.
+1507164052706918430 2022-03-25 01:14:46 +0000 <longwinsk> 最近发现好几个国内web2的优秀团队在走向web3创业，web3“原生”创业团队要面临更多的“正规军”的挑战了。
+1507163552301285393 2022-03-25 01:12:47 +0000 <longwinsk> RT @suji_yan: UPDATE: We @realMaskNetwork would like to thank the participants who applied for our Web3 Drop out scholarship. Received ~40…
+1506435360733417472 2022-03-23 00:59:12 +0000 <longwinsk> I just funded 3 grants on @gitcoin  https://t.co/Pn8t9czgHH
+1506430750328983552 2022-03-23 00:40:53 +0000 <longwinsk> RT @fishkiller: 以下是我的捐赠名单：  - Primitives Lane  中文名字叫「原语里弄」，@freeyao 在上海组织的一 聚焦技术发展的社区，关注密码学和隐私计算等等。  算是很有格调、也很靠谱的一个技术社区。  （😮‍💨 @freeyao 正过着…
+1505450394331148289 2022-03-20 07:45:18 +0000 <longwinsk> RT @suji_yan: 为什么Web3.0革命很重要？为什么真正的元宇宙不能离开数字主权技术（区块链，加密货币）？  抛开这些令人fomo的新名词的各路解释和定义--对于进入兔子洞里的新人来说急需回答的问题是：Web3.0革命的目标是什么？谁是我们的朋友，谁是我们的敌人？…
+1500319673220747266 2022-03-06 03:57:39 +0000 <longwinsk> 这样ip的商业权利才能更好地用起来啊
+1499981153779924994 2022-03-05 05:32:30 +0000 <longwinsk> Web3的世界，好的VC比较多，好的创始人和团队比较少，正确的市场机会和方向最稀缺。所以很考验VC和创业团队的认知和能力，有时还得有点运气吧。
+1499525391303593995 2022-03-03 23:21:27 +0000 <longwinsk> RT @maodaonft: 👀🐱👹  https://t.co/8JXYM1n1P9
+1499346228529676288 2022-03-03 11:29:32 +0000 <longwinsk> @cz_binance another expression of “strongly believe, weakly hold”😀
+1499345464948260867 2022-03-03 11:26:29 +0000 <longwinsk> 我们可能正处于Web3的“巨头”们真正形成之前的春秋战国般，欣欣向荣地混战时期。处于这个时期的创业者和投资机构都是很幸福的，至少还有十年吧。Web3最后的“巨头”的数量应该会比Web2巨头的数量多很多吧。
+1498817991353384961 2022-03-02 00:30:30 +0000 <longwinsk> Web3有个影响，投资机构慢慢在接受一个理念，项目价值不一定和团队大小成正比。有时团队小甚至是一种模式或途径是否有效的标志。以前被收购或上市前，创业团队拼命招人，上市后再裁人的事情，应该会少了吧，哈哈。
+1497754138842525696 2022-02-27 02:03:08 +0000 <longwinsk> RT @HashGlobal: @ShowMeNFT 近期上线了“Article post”功能，我们最新一期的投资MEMO《探索以太坊网络挖矿的新机会》使用了“Article post”功能发布，在排版上节省了很多时间，展示上也更加精美！欢迎大家来体验和阅读交流。文章中提到的…
+1495025715200212993 2022-02-19 13:21:21 +0000 <longwinsk> RT @NetworkMeson: 🎉@ShowMeNFT is thrilled to announce that it has reached a partnership with Meson Network. The emergence of Meson Network…
+1491387023122649088 2022-02-09 12:22:29 +0000 <longwinsk> RT @suji_yan: 宇宙相信加密 加密容易 解密难 我们发现，我们可以利用这项属性去创建新世界的法律。让我们的新柏拉图国度从它的卫星、海底电缆和控制器中脱身而出。让我们的空间在密码之幕背后得以加固。让我们创造一片新的国土，将那些物质现实的控制者阻拦在外；为了跟随我们，进…
+1490908017205809155 2022-02-08 04:39:05 +0000 <longwinsk> RT @Victor928: Are you going to @EthereumDenver? Join us in the Devcon Golden Ticket Hackathon at ETH Denver on Monday the 14th to develop…
+1490318951745605636 2022-02-06 13:38:21 +0000 <longwinsk> RT @nftgoio: Yes? Yes! We're thrilled to announce that we’ve officially launched our Genesis NFTGo Annual Report 2022 #NFT — The FIRST ever…
+1490318770581114880 2022-02-06 13:37:38 +0000 <longwinsk> RT @zhusu: Boomers say don't fight the fed  Real ones been fighting the fed since 2008  Not the same
+1490318654872817672 2022-02-06 13:37:10 +0000 <longwinsk> RT @rss3_: Warm welcome Flowns @flownsorg BUIDL with RSS3  💗 Looking forward to migration the Web3 Name Service as well 👀❤️🚀
+1489856773544570880 2022-02-05 07:01:49 +0000 <longwinsk> RT @Walter_JCHuang: 近期把读完RSS3白皮书后的想法整理成了《RSS3 如闪电般归来，重新定义数据分发和权属的Web3.0协议》，愈发意识到@rss3将会是我们摆脱互联网巨头控制的Web2，迎接Web3的工具和协议。 文章发布在: Showme:  https…
+1489419454295392256 2022-02-04 02:04:04 +0000 <longwinsk> RT @Victor928: Some of my thoughts about this conversation  1/  Ownership and user experience are the key drivers of Web3 adoption.   DApp…
+1489418969790312449 2022-02-04 02:02:09 +0000 <longwinsk> RT @HashGlobal: Hash Global在Showme Club发布第二篇文章《RSS3 如闪电般归来》，是 @Walter_JCHuang 阅读 @rss3白皮书后的感想和心得，欢迎来Showme频道  https://t.co/gWVND9S3OS 先睹为快。R…
+1489169594686205952 2022-02-03 09:31:13 +0000 <longwinsk> RT @cz_binance: While watching this amazing clip, I kept asking why we  don't use blockchain fundraising for this type of projects that pus…
+1489083835144753155 2022-02-03 03:50:26 +0000 <longwinsk> RT @ShaanVP: I think ETH is undervalued by 4x - and here’s the math that shows why.
+1488877464893857793 2022-02-02 14:10:24 +0000 <longwinsk> RT @JoshuaRSS3: Version 0.4.0 is coming! Involve in serious technical discussions and provide technical feedbacks will grant you a poap or…
+1487794942693232642 2022-01-30 14:28:50 +0000 <longwinsk> RT @zhusu: My bull case for crypto has nothing to do with money printing, riskon/riskoff  It has to do with the great awakening of the sove…
+1487790435418673152 2022-01-30 14:10:56 +0000 <longwinsk> RT @Victor928: Very interesting conversation, anyone who interested in #web3 #tokenization should read ⁦⁦@zhangweiwu⁩ ‘s new article👇  “Thi…
+1487057392445497350 2022-01-28 13:38:05 +0000 <longwinsk> RT @HashGlobal: 梁总文章里提到了@realMaskNetwork @TokenScript @PlatON_Network @linyao01 @rct_ai @circlepay @suji_yan @Victor928 @ShowMeNFT，他们也都是Has…
+1486670726408986624 2022-01-27 12:01:36 +0000 <longwinsk> I just claimed a #MaskBox with @realMaskNetwork. Install  https://t.co/QXd45Sw5dt and create your own NFT mystery box!    https://t.co/4btT7q2xpT
+1485086378430185475 2022-01-23 03:05:58 +0000 <longwinsk> RT @maodaonft: 5,000 Ready Player Cat will enter one of the 3D Metaverse with the cooperation of @Digi_metaverse 🌍👪🎆  Can't wait to see you…
+1484096760985567236 2022-01-20 09:33:35 +0000 <longwinsk> 一个优质的web3项目应该有几个特点：1. 在某个环节是整个行业“最快”的刀；2. 有持续创新的能力；3. 很小的团队可以创造很大的价值；4.模式能力一旦形成，网络效应强，scalable。
+1483368145385443328 2022-01-18 09:18:20 +0000 <longwinsk> RT @rss3_: Q&amp;A Session ⏰  https://t.co/kSpEkH9ajc
+1483283676381462528 2022-01-18 03:42:41 +0000 <longwinsk> RT @maodaonft: Dear Mr.old money: Welcome to the RPC NFT party in China 🇨🇳🥳  You can use RMB💰 directly to participate in the RPC NFT biddin…
+1481652446367993857 2022-01-13 15:40:45 +0000 <longwinsk> @porounclemao @maodaonft @HashGlobal 小毛哥是最棒的头号玩家，哈哈
+1480850439599898628 2022-01-11 10:33:52 +0000 <longwinsk> RT @rss3_: Applause for our Whitepaper releasing 👏 👏👏 👏👏👏  https://t.co/khSeg5w9kP  We want to thank all that helped us on the journey  https…
+1480548647385190401 2022-01-10 14:34:39 +0000 <longwinsk> @porounclemao @maodaonft I will do it, haha. let’s talk in tg.
+1480148770662739969 2022-01-09 12:05:41 +0000 <longwinsk> RT @porounclemao: 如果你加入的 Crypto 群组不是在大跌时候怨天尤人，或者互相 Fud，而是跌的无感，苦中作乐甚至越跌越兴奋  那么恭喜你或许找到一些可以长久在币圈陪伴的伙伴，因为非常简单的道理 —— 「危机同时伴随着机会」
+1479814396532572160 2022-01-08 13:57:00 +0000 <longwinsk> RT @Victor928: 1/ I have a strong belief in Web3. Web3 is the fully integrated web with immensely better UX, it is the frictionless market…
+1477092952560177152 2022-01-01 01:42:57 +0000 <longwinsk> RT @ShowMeNFT: We are so excited to announce that ShowMe first official version is NOW LIVE on @Polygon  Go grab your favorite Club Domain👉…
+1471442847962263555 2021-12-16 11:31:27 +0000 <longwinsk> RT @PlatON_Network: #PlatONAIR Glad to invite Metaport and Breaking News to join🎙PlatON AIR at 7:30 AM(UTC) on Dec.16th  ✅Follow @PlatON_Ne…
+1469615227016597506 2021-12-11 10:29:08 +0000 <longwinsk> RT @TokenScript: In every tech cycle, there is a pivot moment where a slow realization becomes an “aha” moment, and the market shifts at sc…
+1466707150722330627 2021-12-03 09:53:29 +0000 <longwinsk> I am verifying my identity as hashglobal on @gitcoin  https://t.co/czbawEJ4BC
+1466265355370651650 2021-12-02 04:37:57 +0000 <longwinsk> RT @jx_block: 很多时候，站在中间的不一定是故事的主角。  https://t.co/LusUSYAwdB
+1463085998401748994 2021-11-23 10:04:19 +0000 <longwinsk> RT @PlatON_Network: Introducing you to the PlatON Privacy-preserving Network Let Us Compute  https://t.co/hbT2pzh0Vn
+1460576287651557383 2021-11-16 11:51:37 +0000 <longwinsk> RT @cz_binance: Our first ad ever, on Financial Times.  https://t.co/gnwNms6psq
+1456899416153997314 2021-11-06 08:21:03 +0000 <longwinsk> I just joined the @KoiiNetwork Web3 economy. Pay attention with us, the future is now!  KOII: Iv6JZc73TQqAumHBIvOa89npMyUNFZY3bGPgkBOXYtA
+1447013613890244608 2021-10-10 01:38:24 +0000 <longwinsk> RT @zhusu: Has there ever been a time in history when large numbers of 18yos are reaching financial freedom before moving out?  Feel like c…
+1447013141531951108 2021-10-10 01:36:31 +0000 <longwinsk> RT @JoshuaRSS3: Getting Trending 👀  https://t.co/NALhPL52Yr
+1446442510084046851 2021-10-08 11:49:02 +0000 <longwinsk> RT @BanklessHQ: We don’t need banks anymore.  They need us.
+1444555161058168833 2021-10-03 06:49:23 +0000 <longwinsk> RT @HashGlobal: We have acquired several RPCs. It's a pleasure to join @maodaonft and be engaged with the one of earliest NFT Communities i…
+1444507090492399625 2021-10-03 03:38:22 +0000 <longwinsk> RT @punk6529: 1/ On NFTs 2030  However bullish you are on NFTs, you are wrong.  You are insufficiently bullish.  6529 has gone to the mount…
+1444277222651490308 2021-10-02 12:24:57 +0000 <longwinsk> RT @LilMoonLambo: $BTC and $ETH in Q4:  https://t.co/CMjzlLZMxA
+1443932620321013768 2021-10-01 13:35:38 +0000 <longwinsk> RT @LilMoonLambo: this guy made a coin that's going to $10,000 this year and you can still buy it at $3,200   https://t.co/8QvlokuXph
+1443174498933432324 2021-09-29 11:23:08 +0000 <longwinsk> RT @suji_yan: Web3 Gang support each other.
+1442789846410428418 2021-09-28 09:54:39 +0000 <longwinsk> RT @melos_studio: #Melos now has over 10,000 followers on Twitter!🥳  We thank everyone one of you for your support in the Melos ecosystem❤️…
+1442789366561079298 2021-09-28 09:52:45 +0000 <longwinsk> RT @rss3_: Mirror World x Mask Network x Pass3 by RSS3  Each Soul can be combined with an existing NFT to make it interactive.  Pass3 + Mas…
+1442788120148152321 2021-09-28 09:47:48 +0000 <longwinsk> RT @realMaskNetwork: 1/ 🧐 Want to use your #NFT as profile pic on Twitter, and let 𝙚𝙫𝙚𝙧𝙮𝙤𝙣𝙚 know it is no ordinary JPEG?  Here's what you'v…
+1438094673176760323 2021-09-15 10:57:43 +0000 <longwinsk> RT @PrimeDAO_: A big milestone for DAO to DAO innovation — #PrimeDAO is thrilled to raise $2 million from top DAO backers, including @LD_Ca…
+1437599328604803075 2021-09-14 02:09:23 +0000 <longwinsk> RT @novogratz: The guys that bought $LTC on the Walmart news.  😂
+1437376591663755265 2021-09-13 11:24:19 +0000 <longwinsk> @SherlockShi_AHA @tuzi_moe @JoshuaRSS3 @suji_yan 问Joshua要啊
+1434513961584525317 2021-09-05 13:49:15 +0000 <longwinsk> RT @zhusu: The idea that NFTs are nonproductive assets is wrong  They are financially nonproductive but culturally productive  The net pres…
+1431935795909169153 2021-08-29 11:04:32 +0000 <longwinsk> RT @zhusu: If I'm DeBeers I'm worried. Imagine NFT engagement rings leveraging ERC-998 (NFTs containing NFTs). All the costliness / signall…
+1429260346557009921 2021-08-22 01:53:15 +0000 <longwinsk> Check out London on @TheBinanceNFT 🎨  https://t.co/SQRr0t4bB7
+1426849249682083846 2021-08-15 10:12:25 +0000 <longwinsk> invest in web3 era, by @longwinsk  https://t.co/KaxTccyEJu
+1426804864701456392 2021-08-15 07:16:03 +0000 <longwinsk> RT @Fantome5_: A bet on @Monster_Blocks is a bet on truly delightful art and deflationary economics (stack and burn) @StaniKulechov  https:/…
+1426452493744033795 2021-08-14 07:55:51 +0000 <longwinsk> @RivermenNFT 0xc6c60fdc5b2379aabc853d45ebeb12af7fc63841  #Rivermen #RivermenMeme
+1426451798194200576 2021-08-14 07:53:05 +0000 <longwinsk> RT @longwinsk: @RivermenNFT 0xc6c60fdc5b2379aabc853d45ebeb12af7fc63841
+1426451746331631618 2021-08-14 07:52:53 +0000 <longwinsk> RT @RivermenNFT: OFFICIAL ANNOUNCEMENT We're airdropping 200 Rivermen to holders of 6 NFT projects: CryptoPunk, BAYC, Meebits, CryptoC, Kun…
+1426451346543169536 2021-08-14 07:51:17 +0000 <longwinsk> @RivermenNFT 0xc6c60fdc5b2379aabc853d45ebeb12af7fc63841
+1425821101234393099 2021-08-12 14:06:55 +0000 <longwinsk> RT @novogratz: If $eth is the currency of culture, no one has any idea how big the TAM can be.   I have a lot and feel short.   NFTs are no…
+1424345547515711489 2021-08-08 12:23:36 +0000 <longwinsk> Check out my new NFT on OpenSea!  https://t.co/YYHIfO5S5k 来自 @opensea
+1423563008005922820 2021-08-06 08:34:04 +0000 <longwinsk> RT @pythianism: For most people, seeing is believing   1559 isn't even close to priced in
+1423212103666585601 2021-08-05 09:19:42 +0000 <longwinsk> @maodaonft @Walter_JCHuang @HashGlobal
+1423199596558249988 2021-08-05 08:30:00 +0000 <longwinsk> RT @maodaonft: 🥳Our team really appreciates all the engagement we are getting for this giveaway! 🥳  We are very excited for the launch on 8…
+1412227593374367746 2021-07-06 01:51:10 +0000 <longwinsk> @punkscomic How do I burn my issue#1?
+1412220513779216388 2021-07-06 01:23:02 +0000 <longwinsk> Looking for an invitation! My address: 0x94d2C9CAC34E31728C705a981cd590CF8F3e883D #REID #REIDinvitation
+1399566492056756226 2021-06-01 03:20:29 +0000 <longwinsk> 提高认知，从改变自己的信息获取方式开始。
+1378651884211200003 2021-04-04 10:13:17 +0000 <longwinsk> This tweet is encrypted with #mask_io (@realMaskbook). 📪🔑  Install  https://t.co/LtvbfFGNt8 to decrypt it.
+1138641042264080384 2019-06-12 02:55:54 +0000 <longwinsk> @GBinance look forward to seeing the 100 millionth user of Binance when tip point comes.
+['twitter'] poster drawer done in `OUT_FOLDER`
